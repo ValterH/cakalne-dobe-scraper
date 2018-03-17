@@ -8,5 +8,5 @@ project for scraping data from: [https://cakalnedobe.ezdrav.si](https://cakalned
 
 ## data maps
 
-input arguments matched with their values are in [procedures] (/procedures.txt) [regions] (/regions) [urgencies] (/urgencies)
-regions and procedures can also be obtained by running the [data] (/data.py) file
+input arguments matched with their values are in [procedures] (./procedures.txt) [regions] (./regions) [urgencies] (./urgencies)
+regions and procedures can also be obtained by running the [data] (./data.py) file
