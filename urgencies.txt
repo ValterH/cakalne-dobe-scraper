@@ -1,0 +1,3 @@
+0 : Zelo hitro
+1 : Redno
+2 : Hitro

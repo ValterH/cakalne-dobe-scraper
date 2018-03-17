@@ -1,0 +1,14 @@
+<select class="form-control" data-val="true" data-val-number="The field regionId must be a number." id="regionId" name="regionId"><option value="">Vse regije</option>
+<option value="9">Gorenjska regija</option>
+<option value="11">Goriška regija</option>
+<option value="7">Jugovzhodna Slovenija</option>
+<option value="1">Koroška regija</option>
+<option value="12">Obalno-kraška regija</option>
+<option value="8">Osrednjeslovenska regija</option>
+<option value="3">Podravska regija</option>
+<option value="2">Pomurska regija</option>
+<option value="6">Posavska regija</option>
+<option value="10">Primorsko-notranjska regija</option>
+<option value="4">Savinjska regija</option>
+<option value="5">Zasavska regija</option>
+</select>
