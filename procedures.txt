@@ -1,1000 +1,1000 @@
-1255 : 24 urna pH metrija z impedanco na terciarni ravni
-1012 : 24-urna PH-metrija požiralnika
-900 : A scan ehografija
-9 : Abdominalni kirurški pregled - prvi
-1274 : Abdominalni kirurški pregled otroka - prvi
-618 : Abrazija kože
-166 : Adrenalektomija
-526 : Akupunktura
-112 : Alergološki pregled - prvi
-124 : Alergološki pregled otroka - prvi
-15 : Algološki pregled - prvi
-393 : Ambulantna histeroskopija
-1142 : Amputacija korenine
-887 : Angiografija (brez koronarne angiografije)
-35 : Angiološki pregled - prvi
-888 : Anterogradna pieloureterografija po nefrostomi
-37 : Antikoagulacijsko zdravljenje - prvi pregled
-346 : Antirefluksni poseg
-282 : Aortokoronarni obvodi
-284 : Aortokoronarni obvodi z menjavo srène zaklopke
-1125 : Apikotomija
-1228 : Aplikacija kemoterapije v seènik
-1234 : Aplikacija zdravila v seènik
-1032 : Artrodeza gležnja
-1035 : Artrodeza kolena
-1031 : Artrodeza kolka
-1030 : Artrodeza komolca
-603 : Artrodeza malih sklepov roke
-1033 : Artrodeza ramena
-1034 : Artrodeza zapestja
-584 : Artroskopija (drugo)
-987 : Artroskopija gležnja (diagnostièna in terapevtska)
-990 : Artroskopija kolena (diagnostièna in terapevtska)
-586 : Artroskopija kolka (diagnostièna in terapevtska)
-585 : Artroskopija komolca (diagnostièna in terapevtska)
-988 : Artroskopija rame (diagnostièna in terapevtska)
-989 : Artroskopija zapestja (diagnostièna in terapevtska)
-228 : Aspiracija in lavaža nosnih sinusov
-213 : Atikotomija
-494 : Avditorni evocirani potenciali
-901 : B scan ehografija
-512 : Bilimetrija
-587 : Biopsija - mišiènoskeletna (vkljuèuje mehka tkiva)
-321 : Biopsija abdomna, peritoneja in omentuma
-563 : Biopsija anusa in rektuma
-184 : Biopsija beloènice
-311 : Biopsija bezgavk
-562 : Biopsija debelega èrevesa
-457 : Biopsija dojke
-169 : Biopsija hipofize
-403 : Biopsija in aspiracija testisa
-564 : Biopsija jeter
-231 : Biopsija jezika
-309 : Biopsija kostnega mozga
-619 : Biopsija kože in podkožnega tkiva
-349 : Biopsija ledvice
-236 : Biopsija mandljev/žrelnice
-1134 : Biopsija mehkih tkiv v dentalni medicini
-361 : Biopsija mehurja
-165 : Biopsija nadledviène žleze
-225 : Biopsija nosne votline in/ali zgornjega žrela
-229 : Biopsija nosnih sinusov
-222 : Biopsija notranjega ušesa
-204 : Biopsija oèesne veznice
-404 : Biopsija penisa
-301 : Biopsija periferne arterije
-366 : Biopsija perirenalnega/perivezikalnega tkiva
-265 : Biopsija plevre/pljuè
-171 : Biopsija priželjca (timusa)
-401 : Biopsija prostate
-179 : Biopsija roženice
-356 : Biopsija seèevoda
-364 : Biopsija seènice
-402 : Biopsija skrotuma
-216 : Biopsija srednjega ušesa
-559 : Biopsija tankega èrevesa
-1135 : Biopsija trdih tkiv v dentalni medicini
-319 : Biopsija trebušne slinavke
-235 : Biopsija ustne votline
-200 : Biopsija veke
-313 : Biopsija vranice
-399 : Biopsija vulve, perineja in/ali nožnice
-206 : Biopsija zunanjega ušesa
-167 : Biopsija èešarike (epifize)
-189 : Biopsija šarenice
-163 : Biopsija šèitnice in obšèitnice
-556 : Biopsija želodca
-233 : Biopsija žlez slinavk in izvodil
-318 : Biopsija žolènika in žolèevodov
-241 : Biopsija žrela
-1021 : Blokada živca
-1306 : Bolnišnica obravnava v psihiatrij
-1395 : Bolnišnièna obravnava v pedopsihiatriji
-583 : Bolnišnièna obravnava za poklicno rehabilitacijo
-582 : Bolnišnièna obravnava zaradi oskrbe z medicinsko tehniènimi pripomoèki
-464 : Brahiterapija
-1208 : Bronhodilatatorni test
-264 : Bronhoskopija (vkljuèuje biopsijo ali odstranitev tujka)
-954 : Celoten UZ ven spodnjih okonèin
-549 : Celovita geriatrièna ocena
-509 : Cikloergometrija
-372 : Cistektomija
-862 : Cistografija
-360 : Cistolitotomija
-514 : Cistometrografija
-357 : Cistoskopija
-664 : CT - dentalni
-685 : CT abdomna brez KS - drugo
-660 : CT artrografija - drugo brez KS
-674 : CT artrografija - drugo s KS
-656 : CT artrografija rame brez KS
-673 : CT artrografija rame s KS
-649 : CT cervikalne hrbtenice
-668 : CT cervikalne hrbtenice s KS
-635 : CT glave brez KS
-642 : CT glave s KS
-659 : CT gležnja
-676 : CT hrbtenice z intratekalno aplik. KS
-1269 : CT jeter s KS - 4 faze
-694 : CT jeter s portalnim ojaèanjem
-657 : CT kolena
-654 : CT kolkov
-1244 : CT komolca
-651 : CT lumbo-sakralne hrbtenice
-670 : CT lumbo-sakralne hrbtenice s KS
-683 : CT medeniènih organov brez KS
-693 : CT medeniènih organov s KS
-640 : CT obnosnih votlin brez KS
-645 : CT obnosnih votlin s KS
-639 : CT obraznih kosti
-636 : CT orbit brez KS
-643 : CT orbit s KS
-689 : CT ozkega èrevesa brez KS
-697 : CT ozkega èrevesa s KS
-665 : CT pelvimetrija
-719 : CT perfuzija posameznega organa
-686 : CT pljuè protokol lungcare
-661 : CT po lSR brez KS
-675 : CT po LSR s KS
-652 : CT po mielografiji brez KS
-671 : CT po mielografiji s KS
-720 : CT primerjava za skupino CT preiskave
-684 : CT prsnega koša - pljuè HRCT
-679 : CT prsnih organov brez KS
-680 : CT prsnih organov brez KS - ostalo
-690 : CT prsnih organov s KS
-658 : CT rame
-655 : CT SIS (sakroiliakalnega sklepa)
-678 : CT skeleta drugo  s KS
-663 : CT skeleta drugo -  brez KS
-637 : CT skeleta glave
-644 : CT skeleta glave  s KS
-648 : CT skeleta hrbtenice
-667 : CT skeleta hrbtenice s KS
-653 : CT skeleta medenice
-672 : CT skeleta medenice s KS
-647 : CT skeleta okonèin
-666 : CT skeleta okonèin s KS
-662 : CT skeleta sklepov (vsak veèji sklep)
-677 : CT skeleta sklepov s KS
-1239 : CT srca - prikaz kalcinacij
-638 : CT srednjega ušesa in temporalke
-650 : CT torakalne hrbtenice
-669 : CT torakalne hrbtenice s KS
-681 : CT trebušnih organov brez KS
-691 : CT trebušnih organov s KS
-687 : CT urografija
-695 : CT urografija - KS
-641 : CT vratu brez KS
-646 : CT vratu s KS
-1261 : CT zapestja
-692 : CT zgornjega abdomna  s KS
-682 : CT zgornjega abdomna brez KS
-688 : CT širokega èrevesa brez KS
-696 : CT širokega èrevesa s KS
-699 : CTA abdominalne aorte
-706 : CTA aorto- cervikalna
-703 : CTA jeter
-716 : CTA koronarnih arterij
-704 : CTA ledvic
-709 : CTA možganskih arterij
-707 : CTA pelviènih  a. in a. spodnjih okonèin
-700 : CTA pelviènih žil
-702 : CTA pljuènih arterij
-705 : CTA selektivne angiografije
-713 : CTA srca  - prikaz kalcinacij
-715 : CTA srca - prikaz funkcije
-714 : CTA srca - prikaz morfoloških struktur
-698 : CTA torakalne aorte
-708 : CTA torakalne in abdominalne aorte
-712 : CTA venografija drugo
-710 : CTA venografija možganov
-711 : CTA venografija vratu
-701 : CTA zgornjih okonèin
-1189 : Defekografija
-270 : Dekortikacija pljuè
-914 : Delna transtorakalna ehokardiografija
-17 : Dermatološki pregled - prvi
-106 : Diabetološki pregled - prvi
-947 : Diagnostièna ali terapevtska punkcija organa z UZ tehnologijo
-1340 : Dinamièna scintigrafija jeter in žolènih vodov (holescintigrafija)
-1353 : Dinamièna scintigrafija ledvic
-1387 : Doloèitev oèistka Cr-EDTA
-903 : Doppler ehografija
-933 : Dopplerjeva krivulja ureternih curkov (DKUC)
-945 : Dopplerska preiskava z meritvami hitrosti in RI
-1216 : Druga endokrinološka testiranja
-866 : Druga RTG slikanja skeleta
-341 : Druge abdominalne operacije
-498 : Druge avdiometrije
-621 : Druge ekscizije kože in podkožnega tkiva (vklj.sinusi, razjede, odstranitev nohtov)
-1003 : Druge histeroskopske operacije
-504 : Druge meritve pljuène funkcije (bronhospirometrija, pljuèna komplianca, merjenje izmenjave plinov)
-161 : Druge nevrokirurške operacije
-1286 : Druge nuklearno-medicinske aktivnosti
-375 : Druge operacije mehurja
-305 : Druge operacije na arterijah
-413 : Druge operacije na penisu (cirkumcizija, dekurvacija, ?.)
-174 : Druge operacije na priželjcu (timusu)
-1086 : Druge operacije nosu v lokalni anesteziji
-1099 : Druge operacije obnosnih votlin v splošni anesteziji
-437 : Druge operacije roke
-412 : Druge operacije seènice (prirojene anomalije: hipospadija, epispadija; stenoza, prolaps,?)
-410 : Druge operacije testisa in/ali semenskega povesma
-378 : Druge operacije urinarnega sistema
-432 : Druge ortopedske operacije
-1359 : Druge ortopedske operacije gležnja in stopala
-453 : Druge plastiène operacije
-462 : Druge plastiène operacije dojk (korekcija, redukcija, tetovaža,?)
-865 : Druge radiološke preiskave ledvic in seènega mehurja
-277 : Druge torakalne operacije
-421 : Druge travmatološke operacije
-1014 : Druge urodinamske preiskave
-1188 : Druge ušesne operacije
-290 : Druge žilne operacije (razen arterije)
-489 : Drugi diagnostièni oèesni testi in meritve
-510 : Drugi kardiovaskularni diagnostièni testi in meritve (vkljuèuje telemetrijo, kadriovaskularni stres test, test nagiba mize)
-475 : Drugi nevrološki testi in meritve
-261 : Drugi oralni operativni posegi
-555 : Drugi poseg na požiralniku
-1341 : Drugi posegi na bobnièu in srednjem ušesu
-431 : Drugi posegi na glavi
-384 : Drugi posegi na materniènem vratu (ki niso povezani z odkrivanjem in zdravljenjem predrakavih in rakavih sprememb)
-622 : Drugi posegi na nohtih
-400 : Drugi posegi na ženskih spolnih organih
-1178 : Drugi posegi v ambulantni kirurgiji
-1307 : Drugi posegi v nosu
-414 : Drugi posegi v porodništvu (izkljuèeni amniocenteza in biopsija horionskih resic)
-280 : Drugi posegi v sapniku
-1383 : Drugi posegi v ustih, na nebu ali jezišku
-812 : DTR glave (difusion tensor imaging)
-899 : Ehoencefalografija
-423 : Eksartikulacija v kolku
-269 : Ekscizija infiltrata / metastaze pljuè
-631 : Ekscizija limfoedematoznega tkiva
-1145 : Ekscizija majhnih tumorjev v oralni kirurgiji
-180 : Ekscizija pterigija
-1018 : Ekscizija tumorja ali ciste vratu
-449 : Ekstirpacija podkožnih tumorjev (lipom, hemangiom,?)
-1146 : Ekstrakcija zoba
-468 : Elektroencefalografija EEG
-1374 : Elektrofiziološke preiskave vida
-506 : Elektrokardiografija EKG (razen Holter)
-495 : Elektrokohleografija
-944 : Endoanalni UZ
-103 : Endodontski pregled - prvi
-105 : Endodontski pregled - zaèetek zdravljenja
-252 : Endodontsko zdravljenje
-110 : Endokrinološki pregled (razen tireologije in diabetologije) - prvi
-120 : Endokrinološki pregled otroka - prvi
-572 : Endoproteza gležnja
-590 : Endoproteza kolena
-588 : Endoproteza kolka delna (PEP)/totalna (TEP)
-591 : Endoproteza komolca
-589 : Endoproteza rame delna (PEP)/totalna (TEP)
-354 : Endoskopska kateterizacija seèevoda
-316 : Endoskopska retrogradna holangiopankreatografija ERCP/holangiografija ERC/pankreatografija ERP
-159 : Endoskopske operacije glave (ventrikulostomija, biopsija,...)
-1096 : Endoskopske operacije obnosnih votlin v splošni anesteziji
-1237 : Endoskopski posegi seènice
-1183 : Endoskopski UZ požiralnika
-1209 : Endoskopski UZ rektuma
-1220 : Endoskopski UZ trebušne slinavke, biliarnega sistema
-1185 : Endoskopski UZ želodca
-614 : Esharotomija
-156 : Evakuacija subduralnega / epiduralnega hematoma
-1199 : Evkapnièna hiperventilacija
-322 : Ezofagogastroduodenoskopija (EGDS)
-288 : Femoro - poplitealni obvod (bypass)
-148 : Fenestracija hrbtenice
-1139 : Fenestracija zoba
-867 : Fistulografija
-1236 : Fiziatrièno rehabilitacijska obravnava (sekundarna raven) - prvi
-23 : Fiziatrièno rehabilitacijska obravnava (terciarna raven) - prvi pregled
-21 : Flebološki pregled - prvi
-551 : Fluoroskopija
-615 : Fototerapija kože
-1137 : Frenulotomija, frenulektomija, plikotomija
-1095 : Funkcionalne estetske operacije nosu v splošni anesteziji
-1084 : Funkcionalni posegi v nosu v lokalni anesteziji
-1151 : Furkacijska plastika
-342 : Gastrektomija z rekonstrukcijo
-25 : Gastroenterološki pregled - prvi
-118 : Gastroenterološki pregled otroka - prvi
-84 : Geriatrièni pregled v interni medicini - prvi
-979 : Ginekološki pregled (razen pregled noseènic) na sekundarni ravni - prvi
-7 : Ginekološki pregled zaradi patološke noseènosti- prvi
-492 : Govorna avdiometrija
-493 : Govorna avdiometrija s centralnimi slušnimi testi
-130 : Hematološki in onkološki pregled otroka - prvi
-27 : Hematološki pregled - prvi
-1141 : Hemisekcija zoba
-525 : Hiperbarièno zdravljenje s kisikom
-1013 : Histerosalpingografija (HSG)
-1106 : Histeroskopska sterilizacija
-1101 : Histeroskopski posegi zaradi neplodnosti
-565 : Holedohoskopija
-508 : Holter srca
-717 : IGA (imaging guided ablation  pod CT)
-323 : Ileoskopija, jejunoskopija
-496 : Impedanèna avdiometrija
-1345 : Implantacija elektromagnetnega slušnega pripomoèka
-1231 : Implantacija/menjava protez v urologiji
-128 : Imunološki pregled otroka - prvi
-243 : Incizija in drenaža abscesov ali cist v ustni votlini
-237 : Incizija in drenaža peritonzilarnega abscesa
-1212 : Induciran izmeèek na eozinofilce
-29 : Infektološki pregled - prvi
-1077 : Infrardeèe slikanje
-1224 : Inhalacijsko provokacijski test s specifiènimi alergeni, aspirinom
-503 : Inhalacijsko provokacijski test z metaholinom
-609 : Injekcija snovi v kožo, podkožno tkivo in mišico
-1020 : Injiciranje zdravila v sklep
-467 : Instilacija citotoksiène snovi v telesne votline ali organe
-31 : Internistièni pregled - prvi
-1249 : Internistièni pregled noseènic -prvi
-860 : Intravenska urografija - IVU
-538 : Izdelava in uèenja uporabe opornic/ortoz in pripomoèka za izvajanje aktivnosti
-1357 : Izdelava in vstavitev stalne oèesne proteze
-522 : Izdelava proteze ali ortoze
-1126 : Izkles zaostale korenine
-1203 : Kapilaroskopija
-1223 : Kapsulna endoskopija prebavnega trakta
-963 : Kardiokirurški pregled - prvi
-1254 : Kardiokirurški pregled otroka - prvi
-33 : Kardiološki pregled - prvi
-114 : Kardiološki pregled otroka - prvi
-967 : Kardiološki pregled zaradi srènega spodbujevalnika - prvi
-1206 : Kardiopulmonalno obremenilno testiranje (CPET)
-1232 : Kariogram iz perfierne krvi
-211 : Kateterizacija Evstahijeve tube (ušesne troblje)
-358 : Kateterizacija mehurja
-297 : Kateterizacija srca (razen v sklopu koronarne angiografije)
-293 : katetrska ablacija aritmij
-466 : Kemoterapija (i.v., p.o., s.c. in i.m.)
-181 : Keratoplastika (vkljuèuje transplantacijo roženice)
-1127 : Kirurška odstranitev delno izraslega zoba
-260 : Kirurška odstranitev neizraslega zoba
-90 : Kirurški splošni pregled - prvi
-1138 : Kirurško podaljšanje kliniène krone
-41 : Klinièno genetski pregled - prvi
-561 : Kolonoskopija (razen v okviru SVITa)
-394 : Kolposkopija, vaginoskopija
-1229 : Kompleksna rehabilitacijska bolnišnièna obravnava
-858 : Kontrastna preiskava èrevesja
-1144 : Konzervativno zdravljenje motenj temporomandibularnega sklepa (TMS)
-450 : Korekcija otapostaze
-441 : Korekcija shize
-1361 : Korekcije osnih deformacij v ortopediji
-1082 : Kostno usidran slušni pripomoèek ? BAHA  v lokalni anesteziji
-1008 : Kriokauterizacija ali krioterapija (postopek v dermatologiji)
-455 : Kritje veèjih kožnih defektov s kožnimi transplantati
-998 : Kurativna obravnava skupine pacientov v specialistièni ambulanti na sekundarni ravni zdravstvenega varstva - prvi pregled
-320 : Laparoskopija abdomna (diagnostièna)
-1105 : Laparoskopska sterilizacija
-1100 : Laparoskopski posegi zaradi neplodnosti
-617 : Laserska obnovitev kože
-958 : Laserska sklerozacija spodnjih okonèin
-1308 : Laserski posegi na oèeh
-1078 : Lažji posegi v otorinolaringologiji (ORL) in maksilofacialni kirurgiji v lokalni anesteziji
-1089 : Lažji posegi v otorinolaringologiji (ORL) in maksilofacialni kirurgiji v splošni anesteziji
-632 : Lifting obraza
-630 : Lipektomija
-629 : Liposukcija
-267 : Lobektomija pljuè
-145 : Lumbalna punkcija
-1088 : Mali posegi malignih sprememb v otorinolaringologiji (ORL) in maksilofacialni kirurgiji v lokalni anesteziji
-996 : Mamografija (vkljuèuje odèitavanje slike, izkljuèuje preventivno presejanje)
-1180 : Manometrija požiralnik
-1256 : Manometrija požiralnika in 24 urna pH metrija z impedanco na terciarni ravni
-1277 : Manometrija požiralnika na terciarni ravni
-1194 : Manometrija rektuma
-511 : Manometrija sfinktrov
-459 : Mastektomija
-275 : Mediastinoskopija
-276 : Mediastinotomija
-283 : Menjava srène zaklopke
-1309 : Meritev intermitentne klavdikacije ob obremenitvi na tekoèem traku
-501 : Meritev moèi dihalnih mišic
-1210 : Meritev moèi dihalnih mišic (MIP, MEP)
-1330 : Meritev tkivne oksimetrije
-1322 : Meritve gleženjskih pritiskov
-1327 : Meritve palèevih pritiskov (palèeva pletizmografija)
-478 : Merjenje akomodacije ali refrakcije
-1179 : Merjenje izmenjave plinov (difuzijska kapaciteta pljuè)
-550 : Merjenje kostne gostote
-1191 : Merjenje NO v izdihanem zdraku
-863 : Mikcijska ureterocistografija
-445 : Mikrokirurška rekonstrukcija s prostim prenosom tkiv
-217 : Miringoplastika
-212 : Miringotomija
-1085 : MIST  (minimalno invazivna terapija sinusov) v lokalni anesteziji
-505 : Monitoriranje in beleženje krvnega tlaka (vkljuèno s t.i. Holter RR)
-766 : MR abdomna s KS - drugo
-759 : MR abdomna- drugo
-1257 : MR celotne hrbtenice
-730 : MR cervikalne hrbtenice
-744 : MR cervikalne hrbtenice s KS
-811 : MR difuzijsko perfuzijsko slikanje
-815 : MR dinamièno slikanje
-763 : MR dojke
-770 : MR dojke s KS
-814 : MR druga specialna slikanja
-1260 : MR enterografija
-1263 : MR fetusa
-813 : MR funkcionalna preiskava
-721 : MR glave brez kontrasta
-725 : MR glave s KS
-739 : MR gležnja
-753 : MR gležnja s KS
-762 : MR jeter
-769 : MR jeter s kontrastom
-738 : MR kolena
-752 : MR kolena s KS
-737 : MR kolka
-751 : MR kolka s KS
-733 : MR komolca
-746 : MR komolca s KS
-801 : MR koronarnih arterij s KS
-734 : MR lumbosakralne hrbtenice
-747 : MR lumbosakralne hrbtenice  s KS
-1251 : MR male medenice
-1246 : MR male medenice s KS
-761 : MR medenice
-768 : MR medenice  s KS
-724 : MR multipla skleroza brez KS
-728 : MR multipla skleroza s KS
-1259 : MR multipla skleroza s KS s 3D
-722 : MR obraza in drugo brez KS
-726 : MR obraza in drugo s KS
-817 : MR primerjava za skupino MR preiskave
-1247 : MR protokol epilepsija brez KS
-1271 : MR protokol epilepsija s KS
-757 : MR prsnega koša
-764 : MR prsnega koša s KS
-731 : MR rame
-748 : MR rame s KS
-736 : MR roke
-750 : MR roke s KS
-743 : MR SIS (sakroliakalnega sklepa) brez KS
-756 : MR SIS (sakroliakalnega sklepa) s KS
-741 : MR skeleta artrografija - vsak sklep
-742 : MR skeleta brez KS - drugo
-755 : MR skeleta s KS - drugo
-806 : MR spektroskopija
-808 : MR spektroskopija dojke
-807 : MR spektroskopija glave
-809 : MR spektroskopija prostate
-798 : MR srca - prikaz funkcije brez KS
-800 : MR srca - prikaz funkcije s KS
-797 : MR srca - prikaz morfoloških struktur brez KS
-799 : MR srca - prikaz morfoloških struktur s KS
-1273 : MR srca in velikih žil brez KS
-740 : MR stopala
-754 : MR stopala s KS
-732 : MR torakalne hrbtenice
-745 : MR torakalne hrbtenice  s KS
-758 : MR trebušnih organov
-765 : MR trebušnih organov s KS
-803 : MR vodeni posegi
-723 : MR vratu brez KS
-729 : MR vratu s KS
-1242 : MR z anestezijo
-810 : MR z endorektalno tuljavo
-735 : MR zapestja
-749 : MR zapestja s KS
-760 : MR zgornjega abdomna
-767 : MR zgornjega abdomna  s KS
-795 : MRA  drugih podroèij s KS
-785 : MRA abdominalne aorte KS
-775 : MRA abdominalne aorte TOF
-773 : MRA aorto- cervikalna  TOF
-783 : MRA aorto- cervikalna KS
-778 : MRA ekstremiteti ( vsaka okonèina posebej ) TOF
-792 : MRA hrbtenice s KS
-794 : MRA medenice s KS
-781 : MRA možganskega žilja - arterije KS
-771 : MRA možganskega žilja - arterije TOF
-782 : MRA možganskega žilja - vene KS
-772 : MRA možganskega žilja - vene TOF
-788 : MRA pelviènih a. In arterij spodnjih udov
-787 : MRA pelvièno žilje KS
-777 : MRA pelvièno žilje TOF
-786 : MRA pljuènih arterij KS
-776 : MRA pljuènih arterij TOF
-796 : MRA pljuènih ven s KS
-791 : MRA prsnega koša s KS
-789 : MRA renalno žilje KS
-779 : MRA renalno žilje TOF
-802 : MRA srca in velikih žil - prikaz pretoka s KS
-780 : MRA TOF - drugo
-784 : MRA torakalne aorte KS
-774 : MRA torakalne aorte TOF
-793 : MRA trebuha s KS
-790 : MRA zgornje okonèine s KS
-1265 : MRCP  (pregled žolènega sistema)
-424 : Nadkolenska amputacija
-859 : Nativno slikanje ledvic
-369 : Nefrektomija
-350 : Nefrolitotomija
-45 : Nefrološki pregled - prvi
-122 : Nefrološki pregled otroka - prvi
-370 : Nefroureterektomija
-446 : Nekrektomija in oskrba opeklin do 20 % - s kožnimi transplantati
-447 : Nekrektomija in oskrba opeklin nad 20% - s kožnimi transplantati
-132 : Neonatalni pregled - prvi
-490 : Neopredeljeni diagnostièni ORL testi in meritve
-47 : Nevrokirurški pregled - prvi
-1268 : Nevrokirurški pregled otroka - prvi
-49 : Nevrološki pregled - prvi
-134 : Nevrološki pregled otroka - prvi
-469 : Nevromišièna elektrodiagnostika (tudi elektromiografija EMG)
-1148 : Obravnava bolezni slinavk
-1173 : Obravnava debelosti otrok - prvi pregled
-1117 : Obravnava endometrioze na terciarni ravni
-502 : Obremenilno testiranje za doloèanje respiratornega statusa (spiromerija,...)
-918 : Obremenitvena ehokardiografija na cikloergometru
-919 : Obremenitvena ehokardiografija na ergospirometru
-923 : Obremenitvena ehokardiografija s hiperventilacijo
-924 : Obremenitvena ehokardiografija s srènim spodbujevalnikom
-921 : Obremenitvena ehokardiografija z dipridamolom
-920 : Obremenitvena ehokardiografija z dobutaminom
-922 : Obremenitvena ehokardiografija z ergonovinom
-454 : Obsežna drenažna incizija z nekrektomijo
-428 : Odprta naravnava zapletenega zloma spodnje èeljustnice
-427 : Odprta naravnava zloma spodnje èeljustnice
-430 : Odprta naravnava zloma zigomatiène kosti
-612 : Odstranitev abscesa kože in podkožnega tkiva
-312 : Odstranitev bezgavk
-620 : Odstranitev bradavic
-1128 : Odstranitev ciste v oralni kirurgiji
-1130 : Odstranitev eksostoz
-611 : Odstranitev hematoma kože in podkožnega tkiva
-458 : Odstranitev lezije na dojki
-420 : Odstranitev osteosintetskega materiala (OSM ex)
-1010 : Odstranitev polipov
-183 : Odstranitev tujka iz beloènice
-610 : Odstranitev tujka iz kože in podkožnega tkiva
-362 : Odstranitev tujka iz mehurja
-223 : Odstranitev tujka iz nosu
-203 : Odstranitev tujka iz oèesne veznice
-554 : Odstranitev tujka iz požiralnika
-178 : Odstranitev tujka iz roženice
-263 : Odstranitev tujka iz sapnika
-187 : Odstranitev tujka iz sprednjega segmenta
-194 : Odstranitev tujka iz zadnjega segmenta
-205 : Odstranitev tujka iz zunanjega sluhovoda
-240 : Odstranitev tujka iz žrela
-303 : Odstranitev venske valvule
-175 : Odstranitev zrkla
-1133 : Odstranjevanje tujka v sinusu
-527 : Odvzem materiala za aspiracijsko biopsijo s tanko iglo (ABTI)
-397 : Odvzem tkivnega vzorca za histopatološko diagnostiko predrakavih/rakavih sprememb materniènega vratu (biopsija, odšèip)
-258 : Okluzivno zdravljenje
-53 : Okulistièni pregled (razen pregled vida za oèala in pregleda zaradi kontaktnih leè) - prvi
-1311 : Okulistièni pregled pri diabetièni retinopatiji
-1314 : Okulistièni pregled v subspecialistiènih ambulantah - prvi
-965 : Okulistièni pregled zaradi kontaktnih leè - prvi
-633 : Okulistièni pregled zaradi oèal - prvi
-1397 : Onkološki pregled - konziliarni
-1379 : Onkološki pregled - prvi
-287 : Operacija abdominalne aorte (anevrizma ali okluzija)
-340 : Operacija anusa
-575 : Operacija discus hernie
-570 : Operacija Dupuytrenove kontrakture (CD, fibromatoza dlanène fascije)
-408 : Operacija hidrokele / spermatokele / varikokele
-1026 : Operacija hrbtenice - dekompresija
-1027 : Operacija hrbtenice - spondilodeza
-338 : Operacija ileusa - razrešitev zarastlin
-334 : Operacija jeter
-146 : Operacija karpalnega kanala
-339 : Operacija kile
-308 : Operacija krènih žil
-557 : Operacija morbidne debelosti
-1377 : Operacija nosnega pretina
-571 : Operacija nožnega palca (hallux)
-332 : Operacija pankreasa
-333 : Operacija pankreasa z duodenektomijo
-278 : Operacija prirojene napake prepone (diafragmalna kila,?)
-162 : Operacija prirojenih anomalij hrbtenjaèe in hrbteniènega kanala (meningokela, mielomeningokela,?)
-376 : Operacija seèevoda (vezikouretralni refluks, hidronefroza, ?)
-192 : Operacija sive mrene (katarakte)
-1029 : Operacija skolioze
-337 : Operacija slepièa (apendiksa)
-197 : Operacija strabizma
-164 : Operacija tireoglosalne ciste/fistule
-286 : Operacija torakalne anevrizme
-149 : Operacija tumorja na hrbtenici
-991 : Operacija ženske urinske inkontinence (razen TVT)
-1120 : Operacija ženske urinske inkontinence TVT
-324 : Operacija žolènih kamnov
-325 : Operacija žolènikov in žolèevodov (razen žolènih kamnov)
-190 : Operacije glavkoma
-1094 : Operacije malignih tumorjev  v otorinolaringologiji (ORL) in maksilofacialni kirurgiji  v splošni anesteziji
-173 : Operacije na šèitnici in obšèitnici
-292 : Operacije pacemaker (srèni spodbujevalnik)
-160 : Operacije perifernih živcev
-285 : Operacije prirojenih srènih napak
-1098 : Operacije tumorjev obnosnih votlin v splošni anesteziji
-1110 : Operacije zaradi motnje statike medeniènega dna
-1102 : Operativne laparoskopije v ginekologiji
-422 : Operativni poseg zaradi posttravmatskega in / ali hematogenega osteitisa
-1230 : Operativni posegi zaradi urinske inkontinence
-1118 : Operativno zdravljenje endometrioze na terciarni ravni
-1116 : Operativno zdravljenje moške neplodnosti
-997 : Operativno zdravljenje tendovaginitisa
-391 : Oploditev z biomedicinsko pomoèjo- spontan ciklus
-392 : Oploditev z biomedicinsko pomoèjo- stimuliran ciklus
-1355 : Optièna koherenèna tomografija (OCT)
-1276 : Oralni glukoza toleranèni test (OGTT) (razen v noseènosti)
-1253 : Oralni glukoza toleranèni test (OGTT) v noseènosti
-1368 : Oromaksilofacialni pregled - prvi
-61 : Ortodontski pregled - prvi
-63 : Ortodontski pregled - zaèetek zdravljenja
-257 : Ortodontsko zdravljenje
-568 : Ortopedska operacija rame
-1028 : Ortopedske operacije skeleta pri otroku (razen skolioze)
-64 : Ortopedski pregled - prvi
-479 : Ortoptiène meritve in preiskave
-451 : Oskrba mehkih tkiv po poškodbah
-176 : Oskrba perforantne rane zrkla
-266 : Oskrba traheostome (vkljuèuje zamenjavo/odstranitev)
-295 : Ostale operacije na srcu
-605 : Osteosinteza cervikalne hrbtenice
-596 : Osteosinteza gležnja
-595 : Osteosinteza goleni
-607 : Osteosinteza hrbtenice (drugi posegi)
-597 : Osteosinteza kolena
-600 : Osteosinteza komolca
-593 : Osteosinteza medenice
-599 : Osteosinteza nadlahtnice
-601 : Osteosinteza podlahti
-604 : Osteosinteza rame
-592 : Osteosinteza stegnenice
-594 : Osteosinteza stopala (skoènica, petnica, stopalnica)
-151 : Osteosinteza torakolumbalne hrbtenice
-606 : Osteosinteza torakolumbalne hrbtenice s "kletko - cage"
-602 : Osteostineza dlanènic, èlenkov
-499 : Otoakustièna emisija
-209 : Otomikroskopija
-69 : Otorinolaringološki pregled - prvi
-1241 : Otorinolaringološki pregled otroka - prvi
-1000 : Paliativna obravnava - prvi pregled
-1097 : Pansinusne operacije  v splošni anesteziji
-251 : Parodontalno zdravljenje
-71 : Parodontološki pregled - prvi
-73 : Parodontološki pregled - zaèetek zdravljenja
-894 : Pediatrièni pregled - prvi
-977 : Pediatrièni pregled na sekundarni ravni - prvi
-80 : Pedopsihiatrièni pregled - prvi
-1328 : Perfuzijska scintigrafija miokarda v mirovanju za oceno viabilnosti miokarda
-1289 : Perfuzijska scintigrafija miokarda z obremenitvijo
-1373 : Perfuzijska scintigrafija možganov
-477 : Perimetrija
-864 : Perkutana anterogradna pielografija
-558 : Perkutana endoskopska jejunostomija
-566 : Perkutana holangiografija
-347 : Perkutana nefroskopija
-1372 : PET/CT celega telesa  s 18F- holinom
-1384 : PET/CT celega telesa s 18F- FDG
-1337 : PET/CT drugo
-1343 : PET/CT miokarda s 18F- FDG
-1336 : PET/CT možganov s 18F- FDG
-1389 : PET/CT obšèitnic  s 18F- holinom
-1388 : PET/CT somatostatinskih receptorjev
-444 : Plastièni poseg na obraznih kosteh
-443 : Plastièni poseg na ožilju
-74 : Plastièno kirurški pregled  - prvi
-268 : Pnevmonektomija
-425 : Podkolenska amputacija
-628 : Poseg na jeziku
-573 : Poseg na mišiènoskeletnem sistemu- druga mesta
-195 : Poseg na mrežnici, žilnici ali zadnjem prekatu
-198 : Poseg na orbiti
-202 : Poseg na oèesni veznici
-201 : Poseg na solznem aparatu
-626 : Poseg na uhlju
-627 : Poseg na ustnicah
-625 : Poseg na vekah
-199 : Poseg na veki
-196 : Poseg na zunanjih oèesnih mišicah
-439 : Poseg na žrelu
-1283 : Poseg z YAG laserjem
-442 : Poseg zaradi pareze obraznega živca
-182 : Posegi na beloènici
-1080 : Posegi na bobnièu ali srednjem ušesu v lokalni anesteziji
-170 : Posegi na hipofizi
-1296 : Posegi na hrbtenici zaradi vnetja
-1103 : Posegi na jajèniku in/ali jajcevodu zaradi benigne patologije
-1104 : Posegi na jajèniku in/ali jajcevodu zaradi maligne patologije
-1285 : Posegi na košèicah srednjega ušesa
-1091 : Posegi na mandljih in žrelnici pri otrocih v splošni anesteziji
-1090 : Posegi na mandljih pri odrasli v splošni anesteziji
-1083 : Posegi na mandljih v lokalni anesteziji
-1334 : Posegi na mastoidni in temporalni kosti
-1108 : Posegi na maternici zaradi benigne patologije
-1109 : Posegi na maternici zaradi maligne patologije
-567 : Posegi na mišiènoskeletnem sistemu na vratu in prsnem košu
-1350 : Posegi na notranjem ušesu
-1081 : Posegi na notranjem ušesu v lokalni anesteziji
-177 : Posegi na roženici
-193 : Posegi na steklovini
-1079 : Posegi na ušesu v lokalni anesteziji
-314 : Posegi na vranici
-1114 : Posegi na vulvi zaradi benigne patologije
-1112 : Posegi na vulvi zaradi maligne patologije
-168 : Posegi na èešariki (epifizi)
-186 : Posegi na šarenici, ciliarniku in sprednjem prekatu
-326 : Posegi na želodcu
-1093 : Posegi na žrelnici in bobnièu pri otrocih v splošni anesteziji
-1092 : Posegi na žrelnici pri otrocih v splošni anesteziji
-262 : Posegi v grlu
-1115 : Posegi v maternièni votlini v splošni anesteziji v dnevni bolnišnici
-1310 : Posegi v nosnih sinusih
-1113 : Posegi v nožnici zaradi benigne patologije
-1111 : Posegi v nožnici zaradi maligne patologije
-1378 : Posegi v zunanjem ušesu
-1329 : Posegi v žlezah slinavkah in izvodilih
-1316 : Posegi zaradi nestabilnosti kolenskega sklepa
-1290 : Posegi zaradi revizijske, specialne, tumorske endoproteze ostalih sklepov
-1325 : Posegi zaradi vnetja ortopedske proteze
-1015 : Postkoitalni test
-1358 : Posvet in svetovanje pri specialistu transfuzijske medicine
-912 : Predoperativna UZ preiskava pazduhe (aksile)
-3 : Pregled dojk in nadaljnja obravnava - prvi
-1250 : Pregled noseènice na sekundarni ravni - perinatalni dnevni center
-981 : Pregled ob neplodnosti - moški - prvi
-983 : Pregled ob neplodnosti - ženske - prvi
-5 : Pregled ob neplodnosti -par - prvi
-86 : Pregled ob odvajanju odvisnosti od alkohola - prvi
-82 : Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi
-486 : Pregled oèesa z impresijsko citologijo roženice
-485 : Pregled oèesnega ozadja
-1136 : Pregled prekanceroz v dentalni medicini
-1356 : Pregled pri specialistu nuklearne medicine (pred nuklearno- medicinsko slikovno diagnostiko ali zdravljenjem, sledenje po zdravljenju)
-1243 : Pregled v ambulanti za zdravljenje parastomalne kože - prvi
-1321 : Pregled v avdiovestibuloški ambulanti - otroci do 5 let - prvi
-1197 : Pregled v avdiovestibuloški ambulanti - prvi
-1364 : Pregled v avdiovestibuloški ambulanti zaradi naglušnosti - prvi
-1305 : Pregled v avdiovestibuloški ambulanti zaradi tinitusa - prvi
-1332 : Pregled v avdiovestibuloški ambulanti zaradi vrtoglavice - prvi
-1201 : Pregled v foniatrièni ambulanti - prvi
-971 : Pregled v nevrofiziologiji - prvi
-969 : Pregled v razvojni nevrologiji - prvi
-1335 : Pregled šèitnice (vkljuèuje UZ šèitnice, ob indikaciji UZ vodeno tankoigelno biopsijo šèitnice) - prvi
-470 : Preiskava evociranih odzivov živènega sistema
-516 : Preiskava urinskega pretoka
-1143 : Premolarizacija zoba
-1262 : Presejanje diabetiène retinopatije
-471 : Preuèevanje spanja
-515 : Profilometrija uretralnega pritiska UPP
-11 : Proktološki pregled - prvi
-409 : Prostata - transuretralna resekcija (TUR)
-405 : Prostatektomija (razen v primeru malignoma)
-1233 : Prostatektomija zaradi malignoma
-1121 : Protetièna rehabilitacija v dentalni medicini
-78 : Psihiatrièni pregled - prvi
-497 : Psihoakustièni testi
-1252 : PTA (perkutana transluminalna angioplastika)
-298 : PTCA (koronarna angiografija)
-76 : Pulmološki pregled - prvi
-116 : Pulmološki pregled otroka - prvi
-718 : Punkcija organa pod CT
-805 : Punkcija organa pod MRI
-1016 : Punkcija plevralne votline
-1333 : Radikalna ekscizija tumorja ustne votline
-1349 : Radioimunoterapija ne-Hodgkinovih limfomov
-1347 : Radioizotopska mikcijska cistoureterografija (RIMCUG)
-1282 : Radionuklidna flebografija
-1352 : Radionuklidna limfografija
-1284 : Radionuklidna ventrikulografija
-1304 : Radionuklidno peptidno zdravljenje metastatskih tumorjev s prisotnimi somatostatinskimi receptorji
-1300 : Radionuklidno zdravljenje - drugo
-1363 : Radionuklidno zdravljenje kostne boleèine zaradi kostnih zasevkov
-1369 : Radionuklidno zdravljenje nevroendokrinih tumorjev z 131I-MIBG
-1393 : Radiosinovioorteza
-463 : Radioterapija
-975 : Razvojna ambulanta - prvi pregled
-523 : Rehabilitacija in detoksifikacija zaradi zlorabe alkohola in drog
-548 : Rehabilitacija in/ali reintegracija oseb z motnjami hranjenja in èustvenimi motnjami
-1175 : Rehabilitacija otrok z motnjami v razvoju
-435 : Reinplantacija prstov in udov
-460 : Rekonstrukcija dojke - avtologna
-461 : Rekonstrukcija dojke z implantati
-1293 : Rekonstrukcija kolenskih vezi
-440 : Rekonstrukcija oblike obraza
-456 : Rekonstrukcija oèesne votline z vsadkom
-448 : Rekonstrukcija razjed zaradi pritiska
-560 : Rektosigmoidoskopija
-1202 : Rektoskopija
-419 : Reosteosinteza (OSM-ex in spongioplastika in OS)
-1150 : Reponiranje luksiranega temporomandibularnega sklepa (TMS)
-327 : Resekcija debelega èrevesa
-330 : Resekcija ozkega èrevesa
-343 : Resekcija požiralnika z rekonstrukcijo
-328 : Resekcija rektosigme
-861 : Retrogradna pielografija
-348 : Retrogradna pieloskopija
-436 : Revaskularizacija prstov in udov
-452 : Revizija po mikrokirurških posegih
-368 : Revizija po transplantaciji ledvice
-306 : Revizije po operacijah na arterijah
-296 : Revizije po operacijah na srcu (krvavitve, tamponade,?)
-291 : Revizije po žilnih operacijah (razen arterije)
-1023 : Revizijska operacija kolena
-1022 : Revizijska operacija kolka
-1024 : Revizijska operacija ramena
-88 : Revmatološki pregled - prvi
-126 : Revmatološki pregled otroka - prvi
-438 : Rinoplastika
-1087 : Rinoskopija in sinusoskopija
-855 : RTG abdomna
-1196 : RTG celotne hrbtenice
-837 : RTG cervikalne hrbtenice
-819 : RTG dlani
-847 : RTG glave
-829 : RTG gležnja
-830 : RTG goleni
-840 : RTG hrbetnice v predelu L5-S1
-842 : RTG kljuènice
-831 : RTG kolena
-834 : RTG kolka
-823 : RTG komolca
-851 : RTG liènice
-844 : RTG lopatice
-839 : RTG lumbosakralne hrbtenice
-835 : RTG medenice
-824 : RTG nadlahti
-849 : RTG nosa
-852 : RTG orbit
-821 : RTG os naviculare
-854 : RTG pc
-828 : RTG petnice
-850 : RTG po schullerju
-822 : RTG podlahti
-832 : RTG pogaèice
-856 : RTG požiralnika
-846 : RTG prsnice (sternuma)
-826 : RTG prstov nog
-818 : RTG prstov rok
-891 : RTG prvega vratnega vretenca (dens)
-825 : RTG rame
-845 : RTG reber
-836 : RTG sakroiliakalnega sklepa - SIS
-848 : RTG sinusov
-892 : RTG slikanje - paratireoidna serija
-893 : RTG slikanje - plazmocitomska serija
-890 : RTG solzevodov
-853 : RTG spodnje èeljusti (mandibule)
-833 : RTG stegnenice
-843 : RTG sternoklavikularnega sklepa
-827 : RTG stopala
-838 : RTG torakalne hrbtenice
-841 : RTG trtice
-820 : RTG zapestja
-857 : RTG želodca in dvanajstnika
-1362 : Scintigrafija celega telesa s 99mTc- DMSA
-1288 : Scintigrafija celega telesa s 99mTc- MIBI
-1367 : Scintigrafija celega telesa z  jodom 123I /131I
-1375 : Scintigrafija celega telesa z 123I /131I-MIBG v diagnostiki tumorjev nevroektodermalnega izvora
-1302 : Scintigrafija kostnega mozga
-1281 : Scintigrafija miokarda z 123I-MIBG za opredelitev simpatiène inervacije miokarda
-1319 : Scintigrafija možganov- dopaminskega prenašalca
-1344 : Scintigrafija obšèitnic
-1299 : Scintigrafija parenhima jeter in vranice
-1380 : Scintigrafija pljuè (ventilacijsko-perfuzijska, perfuzijska)
-1339 : Scintigrafija skeleta
-1381 : Scintigrafija skorje nadledviènic
-1391 : Scintigrafija slinavk
-1292 : Scintigrafija somatostatinskih receptorjev
-1303 : Scintigrafija sredice nadledviènic
-1382 : Scintigrafija varovalnih bezgavk
-1294 : Scintigrafija varovalnih bezgavk in prikaz netipnega tumorja (SNOLL)
-1385 : Scintigrafija z 67Ga-galijem
-1386 : Scintigrafija z oznaèenimi eritrociti za opredelitev jetrnih hemangiomov
-1351 : Scintigrafija z oznaèenimi eritrociti za prikaz mesta krvavitve v prebavni trakt
-1360 : Scintigrafija z oznaèenimi levkociti
-1370 : Scintigrafija za opredelitev D-L shunta
-1342 : Scintigrafija za opredelitev L-D shunta
-1313 : Scintigrafija za prikaz ektopiène želodène sluznice (Meckelovega divertikla)
-1315 : Scintigrafija za prikaz gastroezofagealnega refluksa
-1365 : Scintigrafija za prikaz netipnega tumorja (ROLL)
-1317 : Scintigrafija šèitnice s 99mTc- MIBI
-1318 : Scintigrafija šèitnice s 99mTc-pertehnetatom (s testom kopièenja, brez testa kopièenja)
-1298 : Scintigrafija šèitnice z  jodom 123I /131I  (s testom kopièenja, brez testa kopièenja)
-1324 : Scintigrafija- drugo
-1323 : Scintigrafska doloèitev hitrosti praznjenja želodca
-1320 : Scintimamografija
-433 : Selektivna aponevrektomija pri CD
-406 : Semikastracija
-188 : Sinehioliza
-434 : Sinoviektomija ekstenzorjev / fleksorjev prstov in zapestja
-307 : Sklerozacija krènih žil
-553 : Sklerozacija varic požiralnika
-491 : Slušni funkcijski testi
-1017 : Specifièna desenzibilizacija
-1219 : Spirometrija
-315 : Splenektomija
-101 : Splošni zobozdravstveni pregled - prvi
-1279 : Sprejem v bolnišnico (razen operacije)
-613 : Sprostitev kontrakture kože in podkožnega tkiva
-1326 : Statièna scintigrafija ledvic
-1002 : Sterilizacija-moški
-1193 : TCD (Transkranialna Dopplerjeva sonografija)
-289 : Tea ACI
-1211 : Telesna pletizmografija (RV, TLC, upor v dihalnih poteh)
-1009 : Terapevtska aspiracija sklepa
-1131 : Terapija abscesa v dentalni medicini
-473 : Test avtonomnega živèevja
-507 : Test implantiranega srènega vzpodbujevalca (pacemaker)
-520 : Test kožne alergijske odzivnosti
-517 : Test spiranja mehurja
-474 : Test z nagibno mizo
-500 : Testi vestibularne funkcije
-172 : Timektomija
-208 : Timpanoskopija
-210 : Toaleta ušesa
-488 : Tonometrija
-238 : Tonzilektomija/adenoidektomija
-95 : Torakalni kirurški pregled - prvi
-272 : Torakoskopska operacija pljuè
-273 : Torakoskopska simpatektomija
-271 : Torakotomija eksplorativna
-279 : Traheostomija
-274 : Traheotomija
-925 : Transezofagealna ehokardiografija
-926 : Transezofagealna ehokardiografija s kontrastom
-1354 : Transfuziološka obravnava z mnenjem
-300 : Transkateterska embolizacija krvnih žil
-426 : Transmetatarzalna amputacija prsta/prstov
-185 : Transplantacija beloènice
-336 : Transplantacija jeter
-310 : Transplantacija kostnega mozga
-367 : Transplantacija ledvice
-335 : Transplantacija pankreasa
-281 : Transplantacija srca
-931 : Transrektalni UZ medenice
-932 : Transrektalni UZ prostate z biopsijo
-913 : Transtorakalna ehokardiografija
-916 : Transtorakalna ehokardiografija s KS
-930 : Transvaginalni UZ medenice
-1140 : Travma dentoalveolarnega kompleksa: imobilizacija, replantacija, repozicija zob, šivanje mehkotkivnih ran
-97 : Travmatološki pregled - prvi
-155 : Trepanacija lobanje (anevrizma)
-154 : Trepanacija lobanje (AVM)
-152 : Trepanacija lobanje (možganski tumor)
-153 : Trepanacija lobanje (tumor baze)
-374 : TUR incizija
-373 : TUR mehurja
-902 : UBM - UZ biomikroskopija
-946 : Ultrazvoèni mikcijski cistogram (UMCG)
-513 : Urea dihalni test
-355 : Ureterolitotomija
-353 : Ureteroskopija
-363 : Uretroskopija
-518 : Urinarna manometrija
-99 : Urološki pregled - prvi
-1267 : Urološki pregled otroka- prvi
-917 : Usmerjen ali urgenten UZ srca
-953 : Usmerjen UZ ven zgornjih ali spodnjih okonèin
-928 : UZ abdomna
-909 : UZ dojk enostransko
-908 : UZ dojk obojestransko
-934 : UZ Dopplerske ocene erektilne disfunkcije
-897 : UZ glave
-951 : UZ kolka dojenèkov
-950 : UZ kolka novorojenèkov
-956 : UZ mehkih tkiv
-898 : UZ otroške glave
-952 : UZ perifernih arterij spodnjih okonèin
-1205 : UZ perifernih živcev
-957 : UZ preiskava ene bezgavène lože
-936 : UZ preiskava notranjih genitalij
-929 : UZ s kontrastom
-948 : UZ sklepa
-1213 : UZ skrotuma
-960 : UZ spinalnega kanala
-935 : UZ spremljanje menstruacijskega ciklusa ali UZ preiskava ginekoloških tumorjev
-943 : UZ trebušne aorte in njenih vej
-910 : UZ vodena DIB
+24 urna pH metrija z impedanco na terciarni ravni : 1255
+24-urna PH-metrija požiralnika : 1012
+A scan ehografija : 900
+Abdominalni kirurški pregled - prvi : 9
+Abdominalni kirurški pregled otroka - prvi : 1274
+Abrazija kože : 618
+Adrenalektomija : 166
+Akupunktura : 526
+Alergološki pregled - prvi : 112
+Alergološki pregled otroka - prvi : 124
+Algološki pregled - prvi : 15
+Ambulantna histeroskopija : 393
+Amputacija korenine : 1142
+Angiografija (brez koronarne angiografije) : 887
+Angiološki pregled - prvi : 35
+Anterogradna pieloureterografija po nefrostomi : 888
+Antikoagulacijsko zdravljenje - prvi pregled : 37
+Antirefluksni poseg : 346
+Aortokoronarni obvodi : 282
+Aortokoronarni obvodi z menjavo srène zaklopke : 284
+Apikotomija : 1125
+Aplikacija kemoterapije v seènik : 1228
+Aplikacija zdravila v seènik : 1234
+Artrodeza gležnja : 1032
+Artrodeza kolena : 1035
+Artrodeza kolka : 1031
+Artrodeza komolca : 1030
+Artrodeza malih sklepov roke : 603
+Artrodeza ramena : 1033
+Artrodeza zapestja : 1034
+Artroskopija (drugo) : 584
+Artroskopija gležnja (diagnostièna in terapevtska) : 987
+Artroskopija kolena (diagnostièna in terapevtska) : 990
+Artroskopija kolka (diagnostièna in terapevtska) : 586
+Artroskopija komolca (diagnostièna in terapevtska) : 585
+Artroskopija rame (diagnostièna in terapevtska) : 988
+Artroskopija zapestja (diagnostièna in terapevtska) : 989
+Aspiracija in lavaža nosnih sinusov : 228
+Atikotomija : 213
+Avditorni evocirani potenciali : 494
+B scan ehografija : 901
+Bilimetrija : 512
+Biopsija - mišiènoskeletna (vkljuèuje mehka tkiva) : 587
+Biopsija abdomna, peritoneja in omentuma : 321
+Biopsija anusa in rektuma : 563
+Biopsija beloènice : 184
+Biopsija bezgavk : 311
+Biopsija debelega èrevesa : 562
+Biopsija dojke : 457
+Biopsija hipofize : 169
+Biopsija in aspiracija testisa : 403
+Biopsija jeter : 564
+Biopsija jezika : 231
+Biopsija kostnega mozga : 309
+Biopsija kože in podkožnega tkiva : 619
+Biopsija ledvice : 349
+Biopsija mandljev/žrelnice : 236
+Biopsija mehkih tkiv v dentalni medicini : 1134
+Biopsija mehurja : 361
+Biopsija nadledviène žleze : 165
+Biopsija nosne votline in/ali zgornjega žrela : 225
+Biopsija nosnih sinusov : 229
+Biopsija notranjega ušesa : 222
+Biopsija oèesne veznice : 204
+Biopsija penisa : 404
+Biopsija periferne arterije : 301
+Biopsija perirenalnega/perivezikalnega tkiva : 366
+Biopsija plevre/pljuè : 265
+Biopsija priželjca (timusa) : 171
+Biopsija prostate : 401
+Biopsija roženice : 179
+Biopsija seèevoda : 356
+Biopsija seènice : 364
+Biopsija skrotuma : 402
+Biopsija srednjega ušesa : 216
+Biopsija tankega èrevesa : 559
+Biopsija trdih tkiv v dentalni medicini : 1135
+Biopsija trebušne slinavke : 319
+Biopsija ustne votline : 235
+Biopsija veke : 200
+Biopsija vranice : 313
+Biopsija vulve, perineja in/ali nožnice : 399
+Biopsija zunanjega ušesa : 206
+Biopsija èešarike (epifize) : 167
+Biopsija šarenice : 189
+Biopsija šèitnice in obšèitnice : 163
+Biopsija želodca : 556
+Biopsija žlez slinavk in izvodil : 233
+Biopsija žolènika in žolèevodov : 318
+Biopsija žrela : 241
+Blokada živca : 1021
+Bolnišnica obravnava v psihiatrij : 1306
+Bolnišnièna obravnava v pedopsihiatriji : 1395
+Bolnišnièna obravnava za poklicno rehabilitacijo : 583
+Bolnišnièna obravnava zaradi oskrbe z medicinsko tehniènimi pripomoèki : 582
+Brahiterapija : 464
+Bronhodilatatorni test : 1208
+Bronhoskopija (vkljuèuje biopsijo ali odstranitev tujka) : 264
+Celoten UZ ven spodnjih okonèin : 954
+Celovita geriatrièna ocena : 549
+Cikloergometrija : 509
+Cistektomija : 372
+Cistografija : 862
+Cistolitotomija : 360
+Cistometrografija : 514
+Cistoskopija : 357
+CT - dentalni : 664
+CT abdomna brez KS - drugo : 685
+CT artrografija - drugo brez KS : 660
+CT artrografija - drugo s KS : 674
+CT artrografija rame brez KS : 656
+CT artrografija rame s KS : 673
+CT cervikalne hrbtenice : 649
+CT cervikalne hrbtenice s KS : 668
+CT glave brez KS : 635
+CT glave s KS : 642
+CT gležnja : 659
+CT hrbtenice z intratekalno aplik. KS : 676
+CT jeter s KS - 4 faze : 1269
+CT jeter s portalnim ojaèanjem : 694
+CT kolena : 657
+CT kolkov : 654
+CT komolca : 1244
+CT lumbo-sakralne hrbtenice : 651
+CT lumbo-sakralne hrbtenice s KS : 670
+CT medeniènih organov brez KS : 683
+CT medeniènih organov s KS : 693
+CT obnosnih votlin brez KS : 640
+CT obnosnih votlin s KS : 645
+CT obraznih kosti : 639
+CT orbit brez KS : 636
+CT orbit s KS : 643
+CT ozkega èrevesa brez KS : 689
+CT ozkega èrevesa s KS : 697
+CT pelvimetrija : 665
+CT perfuzija posameznega organa : 719
+CT pljuè protokol lungcare : 686
+CT po lSR brez KS : 661
+CT po LSR s KS : 675
+CT po mielografiji brez KS : 652
+CT po mielografiji s KS : 671
+CT primerjava za skupino CT preiskave : 720
+CT prsnega koša - pljuè HRCT : 684
+CT prsnih organov brez KS : 679
+CT prsnih organov brez KS - ostalo : 680
+CT prsnih organov s KS : 690
+CT rame : 658
+CT SIS (sakroiliakalnega sklepa) : 655
+CT skeleta drugo  s KS : 678
+CT skeleta drugo -  brez KS : 663
+CT skeleta glave : 637
+CT skeleta glave  s KS : 644
+CT skeleta hrbtenice : 648
+CT skeleta hrbtenice s KS : 667
+CT skeleta medenice : 653
+CT skeleta medenice s KS : 672
+CT skeleta okonèin : 647
+CT skeleta okonèin s KS : 666
+CT skeleta sklepov (vsak veèji sklep) : 662
+CT skeleta sklepov s KS : 677
+CT srca - prikaz kalcinacij : 1239
+CT srednjega ušesa in temporalke : 638
+CT torakalne hrbtenice : 650
+CT torakalne hrbtenice s KS : 669
+CT trebušnih organov brez KS : 681
+CT trebušnih organov s KS : 691
+CT urografija : 687
+CT urografija - KS : 695
+CT vratu brez KS : 641
+CT vratu s KS : 646
+CT zapestja : 1261
+CT zgornjega abdomna  s KS : 692
+CT zgornjega abdomna brez KS : 682
+CT širokega èrevesa brez KS : 688
+CT širokega èrevesa s KS : 696
+CTA abdominalne aorte : 699
+CTA aorto- cervikalna : 706
+CTA jeter : 703
+CTA koronarnih arterij : 716
+CTA ledvic : 704
+CTA možganskih arterij : 709
+CTA pelviènih  a. in a. spodnjih okonèin : 707
+CTA pelviènih žil : 700
+CTA pljuènih arterij : 702
+CTA selektivne angiografije : 705
+CTA srca  - prikaz kalcinacij : 713
+CTA srca - prikaz funkcije : 715
+CTA srca - prikaz morfoloških struktur : 714
+CTA torakalne aorte : 698
+CTA torakalne in abdominalne aorte : 708
+CTA venografija drugo : 712
+CTA venografija možganov : 710
+CTA venografija vratu : 711
+CTA zgornjih okonèin : 701
+Defekografija : 1189
+Dekortikacija pljuè : 270
+Delna transtorakalna ehokardiografija : 914
+Dermatološki pregled - prvi : 17
+Diabetološki pregled - prvi : 106
+Diagnostièna ali terapevtska punkcija organa z UZ tehnologijo : 947
+Dinamièna scintigrafija jeter in žolènih vodov (holescintigrafija) : 1340
+Dinamièna scintigrafija ledvic : 1353
+Doloèitev oèistka Cr-EDTA : 1387
+Doppler ehografija : 903
+Dopplerjeva krivulja ureternih curkov (DKUC) : 933
+Dopplerska preiskava z meritvami hitrosti in RI : 945
+Druga endokrinološka testiranja : 1216
+Druga RTG slikanja skeleta : 866
+Druge abdominalne operacije : 341
+Druge avdiometrije : 498
+Druge ekscizije kože in podkožnega tkiva (vklj.sinusi, razjede, odstranitev nohtov) : 621
+Druge histeroskopske operacije : 1003
+Druge meritve pljuène funkcije (bronhospirometrija, pljuèna komplianca, merjenje izmenjave plinov) : 504
+Druge nevrokirurške operacije : 161
+Druge nuklearno-medicinske aktivnosti : 1286
+Druge operacije mehurja : 375
+Druge operacije na arterijah : 305
+Druge operacije na penisu (cirkumcizija, dekurvacija, ?.) : 413
+Druge operacije na priželjcu (timusu) : 174
+Druge operacije nosu v lokalni anesteziji : 1086
+Druge operacije obnosnih votlin v splošni anesteziji : 1099
+Druge operacije roke : 437
+Druge operacije seènice (prirojene anomalije: hipospadija, epispadija; stenoza, prolaps,?) : 412
+Druge operacije testisa in/ali semenskega povesma : 410
+Druge operacije urinarnega sistema : 378
+Druge ortopedske operacije : 432
+Druge ortopedske operacije gležnja in stopala : 1359
+Druge plastiène operacije : 453
+Druge plastiène operacije dojk (korekcija, redukcija, tetovaža,?) : 462
+Druge radiološke preiskave ledvic in seènega mehurja : 865
+Druge torakalne operacije : 277
+Druge travmatološke operacije : 421
+Druge urodinamske preiskave : 1014
+Druge ušesne operacije : 1188
+Druge žilne operacije (razen arterije) : 290
+Drugi diagnostièni oèesni testi in meritve : 489
+Drugi kardiovaskularni diagnostièni testi in meritve (vkljuèuje telemetrijo, kadriovaskularni stres test, test nagiba mize) : 510
+Drugi nevrološki testi in meritve : 475
+Drugi oralni operativni posegi : 261
+Drugi poseg na požiralniku : 555
+Drugi posegi na bobnièu in srednjem ušesu : 1341
+Drugi posegi na glavi : 431
+Drugi posegi na materniènem vratu (ki niso povezani z odkrivanjem in zdravljenjem predrakavih in rakavih sprememb) : 384
+Drugi posegi na nohtih : 622
+Drugi posegi na ženskih spolnih organih : 400
+Drugi posegi v ambulantni kirurgiji : 1178
+Drugi posegi v nosu : 1307
+Drugi posegi v porodništvu (izkljuèeni amniocenteza in biopsija horionskih resic) : 414
+Drugi posegi v sapniku : 280
+Drugi posegi v ustih, na nebu ali jezišku : 1383
+DTR glave (difusion tensor imaging) : 812
+Ehoencefalografija : 899
+Eksartikulacija v kolku : 423
+Ekscizija infiltrata / metastaze pljuè : 269
+Ekscizija limfoedematoznega tkiva : 631
+Ekscizija majhnih tumorjev v oralni kirurgiji : 1145
+Ekscizija pterigija : 180
+Ekscizija tumorja ali ciste vratu : 1018
+Ekstirpacija podkožnih tumorjev (lipom, hemangiom,?) : 449
+Ekstrakcija zoba : 1146
+Elektroencefalografija EEG : 468
+Elektrofiziološke preiskave vida : 1374
+Elektrokardiografija EKG (razen Holter) : 506
+Elektrokohleografija : 495
+Endoanalni UZ : 944
+Endodontski pregled - prvi : 103
+Endodontski pregled - zaèetek zdravljenja : 105
+Endodontsko zdravljenje : 252
+Endokrinološki pregled (razen tireologije in diabetologije) - prvi : 110
+Endokrinološki pregled otroka - prvi : 120
+Endoproteza gležnja : 572
+Endoproteza kolena : 590
+Endoproteza kolka delna (PEP)/totalna (TEP) : 588
+Endoproteza komolca : 591
+Endoproteza rame delna (PEP)/totalna (TEP) : 589
+Endoskopska kateterizacija seèevoda : 354
+Endoskopska retrogradna holangiopankreatografija ERCP/holangiografija ERC/pankreatografija ERP : 316
+Endoskopske operacije glave (ventrikulostomija, biopsija,...) : 159
+Endoskopske operacije obnosnih votlin v splošni anesteziji : 1096
+Endoskopski posegi seènice : 1237
+Endoskopski UZ požiralnika : 1183
+Endoskopski UZ rektuma : 1209
+Endoskopski UZ trebušne slinavke, biliarnega sistema : 1220
+Endoskopski UZ želodca : 1185
+Esharotomija : 614
+Evakuacija subduralnega / epiduralnega hematoma : 156
+Evkapnièna hiperventilacija : 1199
+Ezofagogastroduodenoskopija (EGDS) : 322
+Femoro - poplitealni obvod (bypass) : 288
+Fenestracija hrbtenice : 148
+Fenestracija zoba : 1139
+Fistulografija : 867
+Fiziatrièno rehabilitacijska obravnava (sekundarna raven) - prvi : 1236
+Fiziatrièno rehabilitacijska obravnava (terciarna raven) - prvi pregled : 23
+Flebološki pregled - prvi : 21
+Fluoroskopija : 551
+Fototerapija kože : 615
+Frenulotomija, frenulektomija, plikotomija : 1137
+Funkcionalne estetske operacije nosu v splošni anesteziji : 1095
+Funkcionalni posegi v nosu v lokalni anesteziji : 1084
+Furkacijska plastika : 1151
+Gastrektomija z rekonstrukcijo : 342
+Gastroenterološki pregled - prvi : 25
+Gastroenterološki pregled otroka - prvi : 118
+Geriatrièni pregled v interni medicini - prvi : 84
+Ginekološki pregled (razen pregled noseènic) na sekundarni ravni - prvi : 979
+Ginekološki pregled zaradi patološke noseènosti- prvi : 7
+Govorna avdiometrija : 492
+Govorna avdiometrija s centralnimi slušnimi testi : 493
+Hematološki in onkološki pregled otroka - prvi : 130
+Hematološki pregled - prvi : 27
+Hemisekcija zoba : 1141
+Hiperbarièno zdravljenje s kisikom : 525
+Histerosalpingografija (HSG) : 1013
+Histeroskopska sterilizacija : 1106
+Histeroskopski posegi zaradi neplodnosti : 1101
+Holedohoskopija : 565
+Holter srca : 508
+IGA (imaging guided ablation  pod CT) : 717
+Ileoskopija, jejunoskopija : 323
+Impedanèna avdiometrija : 496
+Implantacija elektromagnetnega slušnega pripomoèka : 1345
+Implantacija/menjava protez v urologiji : 1231
+Imunološki pregled otroka - prvi : 128
+Incizija in drenaža abscesov ali cist v ustni votlini : 243
+Incizija in drenaža peritonzilarnega abscesa : 237
+Induciran izmeèek na eozinofilce : 1212
+Infektološki pregled - prvi : 29
+Infrardeèe slikanje : 1077
+Inhalacijsko provokacijski test s specifiènimi alergeni, aspirinom : 1224
+Inhalacijsko provokacijski test z metaholinom : 503
+Injekcija snovi v kožo, podkožno tkivo in mišico : 609
+Injiciranje zdravila v sklep : 1020
+Instilacija citotoksiène snovi v telesne votline ali organe : 467
+Internistièni pregled - prvi : 31
+Internistièni pregled noseènic -prvi : 1249
+Intravenska urografija - IVU : 860
+Izdelava in uèenja uporabe opornic/ortoz in pripomoèka za izvajanje aktivnosti : 538
+Izdelava in vstavitev stalne oèesne proteze : 1357
+Izdelava proteze ali ortoze : 522
+Izkles zaostale korenine : 1126
+Kapilaroskopija : 1203
+Kapsulna endoskopija prebavnega trakta : 1223
+Kardiokirurški pregled - prvi : 963
+Kardiokirurški pregled otroka - prvi : 1254
+Kardiološki pregled - prvi : 33
+Kardiološki pregled otroka - prvi : 114
+Kardiološki pregled zaradi srènega spodbujevalnika - prvi : 967
+Kardiopulmonalno obremenilno testiranje (CPET) : 1206
+Kariogram iz perfierne krvi : 1232
+Kateterizacija Evstahijeve tube (ušesne troblje) : 211
+Kateterizacija mehurja : 358
+Kateterizacija srca (razen v sklopu koronarne angiografije) : 297
+katetrska ablacija aritmij : 293
+Kemoterapija (i.v., p.o., s.c. in i.m.) : 466
+Keratoplastika (vkljuèuje transplantacijo roženice) : 181
+Kirurška odstranitev delno izraslega zoba : 1127
+Kirurška odstranitev neizraslega zoba : 260
+Kirurški splošni pregled - prvi : 90
+Kirurško podaljšanje kliniène krone : 1138
+Klinièno genetski pregled - prvi : 41
+Kolonoskopija (razen v okviru SVITa) : 561
+Kolposkopija, vaginoskopija : 394
+Kompleksna rehabilitacijska bolnišnièna obravnava : 1229
+Kontrastna preiskava èrevesja : 858
+Konzervativno zdravljenje motenj temporomandibularnega sklepa (TMS) : 1144
+Korekcija otapostaze : 450
+Korekcija shize : 441
+Korekcije osnih deformacij v ortopediji : 1361
+Kostno usidran slušni pripomoèek ? BAHA  v lokalni anesteziji : 1082
+Kriokauterizacija ali krioterapija (postopek v dermatologiji) : 1008
+Kritje veèjih kožnih defektov s kožnimi transplantati : 455
+Kurativna obravnava skupine pacientov v specialistièni ambulanti na sekundarni ravni zdravstvenega varstva - prvi pregled : 998
+Laparoskopija abdomna (diagnostièna) : 320
+Laparoskopska sterilizacija : 1105
+Laparoskopski posegi zaradi neplodnosti : 1100
+Laserska obnovitev kože : 617
+Laserska sklerozacija spodnjih okonèin : 958
+Laserski posegi na oèeh : 1308
+Lažji posegi v otorinolaringologiji (ORL) in maksilofacialni kirurgiji v lokalni anesteziji : 1078
+Lažji posegi v otorinolaringologiji (ORL) in maksilofacialni kirurgiji v splošni anesteziji : 1089
+Lifting obraza : 632
+Lipektomija : 630
+Liposukcija : 629
+Lobektomija pljuè : 267
+Lumbalna punkcija : 145
+Mali posegi malignih sprememb v otorinolaringologiji (ORL) in maksilofacialni kirurgiji v lokalni anesteziji : 1088
+Mamografija (vkljuèuje odèitavanje slike, izkljuèuje preventivno presejanje) : 996
+Manometrija požiralnik : 1180
+Manometrija požiralnika in 24 urna pH metrija z impedanco na terciarni ravni : 1256
+Manometrija požiralnika na terciarni ravni : 1277
+Manometrija rektuma : 1194
+Manometrija sfinktrov : 511
+Mastektomija : 459
+Mediastinoskopija : 275
+Mediastinotomija : 276
+Menjava srène zaklopke : 283
+Meritev intermitentne klavdikacije ob obremenitvi na tekoèem traku : 1309
+Meritev moèi dihalnih mišic : 501
+Meritev moèi dihalnih mišic (MIP, MEP) : 1210
+Meritev tkivne oksimetrije : 1330
+Meritve gleženjskih pritiskov : 1322
+Meritve palèevih pritiskov (palèeva pletizmografija) : 1327
+Merjenje akomodacije ali refrakcije : 478
+Merjenje izmenjave plinov (difuzijska kapaciteta pljuè) : 1179
+Merjenje kostne gostote : 550
+Merjenje NO v izdihanem zdraku : 1191
+Mikcijska ureterocistografija : 863
+Mikrokirurška rekonstrukcija s prostim prenosom tkiv : 445
+Miringoplastika : 217
+Miringotomija : 212
+MIST  (minimalno invazivna terapija sinusov) v lokalni anesteziji : 1085
+Monitoriranje in beleženje krvnega tlaka (vkljuèno s t.i. Holter RR) : 505
+MR abdomna s KS - drugo : 766
+MR abdomna- drugo : 759
+MR celotne hrbtenice : 1257
+MR cervikalne hrbtenice : 730
+MR cervikalne hrbtenice s KS : 744
+MR difuzijsko perfuzijsko slikanje : 811
+MR dinamièno slikanje : 815
+MR dojke : 763
+MR dojke s KS : 770
+MR druga specialna slikanja : 814
+MR enterografija : 1260
+MR fetusa : 1263
+MR funkcionalna preiskava : 813
+MR glave brez kontrasta : 721
+MR glave s KS : 725
+MR gležnja : 739
+MR gležnja s KS : 753
+MR jeter : 762
+MR jeter s kontrastom : 769
+MR kolena : 738
+MR kolena s KS : 752
+MR kolka : 737
+MR kolka s KS : 751
+MR komolca : 733
+MR komolca s KS : 746
+MR koronarnih arterij s KS : 801
+MR lumbosakralne hrbtenice : 734
+MR lumbosakralne hrbtenice  s KS : 747
+MR male medenice : 1251
+MR male medenice s KS : 1246
+MR medenice : 761
+MR medenice  s KS : 768
+MR multipla skleroza brez KS : 724
+MR multipla skleroza s KS : 728
+MR multipla skleroza s KS s 3D : 1259
+MR obraza in drugo brez KS : 722
+MR obraza in drugo s KS : 726
+MR primerjava za skupino MR preiskave : 817
+MR protokol epilepsija brez KS : 1247
+MR protokol epilepsija s KS : 1271
+MR prsnega koša : 757
+MR prsnega koša s KS : 764
+MR rame : 731
+MR rame s KS : 748
+MR roke : 736
+MR roke s KS : 750
+MR SIS (sakroliakalnega sklepa) brez KS : 743
+MR SIS (sakroliakalnega sklepa) s KS : 756
+MR skeleta artrografija - vsak sklep : 741
+MR skeleta brez KS - drugo : 742
+MR skeleta s KS - drugo : 755
+MR spektroskopija : 806
+MR spektroskopija dojke : 808
+MR spektroskopija glave : 807
+MR spektroskopija prostate : 809
+MR srca - prikaz funkcije brez KS : 798
+MR srca - prikaz funkcije s KS : 800
+MR srca - prikaz morfoloških struktur brez KS : 797
+MR srca - prikaz morfoloških struktur s KS : 799
+MR srca in velikih žil brez KS : 1273
+MR stopala : 740
+MR stopala s KS : 754
+MR torakalne hrbtenice : 732
+MR torakalne hrbtenice  s KS : 745
+MR trebušnih organov : 758
+MR trebušnih organov s KS : 765
+MR vodeni posegi : 803
+MR vratu brez KS : 723
+MR vratu s KS : 729
+MR z anestezijo : 1242
+MR z endorektalno tuljavo : 810
+MR zapestja : 735
+MR zapestja s KS : 749
+MR zgornjega abdomna : 760
+MR zgornjega abdomna  s KS : 767
+MRA  drugih podroèij s KS : 795
+MRA abdominalne aorte KS : 785
+MRA abdominalne aorte TOF : 775
+MRA aorto- cervikalna  TOF : 773
+MRA aorto- cervikalna KS : 783
+MRA ekstremiteti ( vsaka okonèina posebej ) TOF : 778
+MRA hrbtenice s KS : 792
+MRA medenice s KS : 794
+MRA možganskega žilja - arterije KS : 781
+MRA možganskega žilja - arterije TOF : 771
+MRA možganskega žilja - vene KS : 782
+MRA možganskega žilja - vene TOF : 772
+MRA pelviènih a. In arterij spodnjih udov : 788
+MRA pelvièno žilje KS : 787
+MRA pelvièno žilje TOF : 777
+MRA pljuènih arterij KS : 786
+MRA pljuènih arterij TOF : 776
+MRA pljuènih ven s KS : 796
+MRA prsnega koša s KS : 791
+MRA renalno žilje KS : 789
+MRA renalno žilje TOF : 779
+MRA srca in velikih žil - prikaz pretoka s KS : 802
+MRA TOF - drugo : 780
+MRA torakalne aorte KS : 784
+MRA torakalne aorte TOF : 774
+MRA trebuha s KS : 793
+MRA zgornje okonèine s KS : 790
+MRCP  (pregled žolènega sistema) : 1265
+Nadkolenska amputacija : 424
+Nativno slikanje ledvic : 859
+Nefrektomija : 369
+Nefrolitotomija : 350
+Nefrološki pregled - prvi : 45
+Nefrološki pregled otroka - prvi : 122
+Nefroureterektomija : 370
+Nekrektomija in oskrba opeklin do 20 % - s kožnimi transplantati : 446
+Nekrektomija in oskrba opeklin nad 20% - s kožnimi transplantati : 447
+Neonatalni pregled - prvi : 132
+Neopredeljeni diagnostièni ORL testi in meritve : 490
+Nevrokirurški pregled - prvi : 47
+Nevrokirurški pregled otroka - prvi : 1268
+Nevrološki pregled - prvi : 49
+Nevrološki pregled otroka - prvi : 134
+Nevromišièna elektrodiagnostika (tudi elektromiografija EMG) : 469
+Obravnava bolezni slinavk : 1148
+Obravnava debelosti otrok - prvi pregled : 1173
+Obravnava endometrioze na terciarni ravni : 1117
+Obremenilno testiranje za doloèanje respiratornega statusa (spiromerija,...) : 502
+Obremenitvena ehokardiografija na cikloergometru : 918
+Obremenitvena ehokardiografija na ergospirometru : 919
+Obremenitvena ehokardiografija s hiperventilacijo : 923
+Obremenitvena ehokardiografija s srènim spodbujevalnikom : 924
+Obremenitvena ehokardiografija z dipridamolom : 921
+Obremenitvena ehokardiografija z dobutaminom : 920
+Obremenitvena ehokardiografija z ergonovinom : 922
+Obsežna drenažna incizija z nekrektomijo : 454
+Odprta naravnava zapletenega zloma spodnje èeljustnice : 428
+Odprta naravnava zloma spodnje èeljustnice : 427
+Odprta naravnava zloma zigomatiène kosti : 430
+Odstranitev abscesa kože in podkožnega tkiva : 612
+Odstranitev bezgavk : 312
+Odstranitev bradavic : 620
+Odstranitev ciste v oralni kirurgiji : 1128
+Odstranitev eksostoz : 1130
+Odstranitev hematoma kože in podkožnega tkiva : 611
+Odstranitev lezije na dojki : 458
+Odstranitev osteosintetskega materiala (OSM ex) : 420
+Odstranitev polipov : 1010
+Odstranitev tujka iz beloènice : 183
+Odstranitev tujka iz kože in podkožnega tkiva : 610
+Odstranitev tujka iz mehurja : 362
+Odstranitev tujka iz nosu : 223
+Odstranitev tujka iz oèesne veznice : 203
+Odstranitev tujka iz požiralnika : 554
+Odstranitev tujka iz roženice : 178
+Odstranitev tujka iz sapnika : 263
+Odstranitev tujka iz sprednjega segmenta : 187
+Odstranitev tujka iz zadnjega segmenta : 194
+Odstranitev tujka iz zunanjega sluhovoda : 205
+Odstranitev tujka iz žrela : 240
+Odstranitev venske valvule : 303
+Odstranitev zrkla : 175
+Odstranjevanje tujka v sinusu : 1133
+Odvzem materiala za aspiracijsko biopsijo s tanko iglo (ABTI) : 527
+Odvzem tkivnega vzorca za histopatološko diagnostiko predrakavih/rakavih sprememb materniènega vratu (biopsija, odšèip) : 397
+Okluzivno zdravljenje : 258
+Okulistièni pregled (razen pregled vida za oèala in pregleda zaradi kontaktnih leè) - prvi : 53
+Okulistièni pregled pri diabetièni retinopatiji : 1311
+Okulistièni pregled v subspecialistiènih ambulantah - prvi : 1314
+Okulistièni pregled zaradi kontaktnih leè - prvi : 965
+Okulistièni pregled zaradi oèal - prvi : 633
+Onkološki pregled - konziliarni : 1397
+Onkološki pregled - prvi : 1379
+Operacija abdominalne aorte (anevrizma ali okluzija) : 287
+Operacija anusa : 340
+Operacija discus hernie : 575
+Operacija Dupuytrenove kontrakture (CD, fibromatoza dlanène fascije) : 570
+Operacija hidrokele / spermatokele / varikokele : 408
+Operacija hrbtenice - dekompresija : 1026
+Operacija hrbtenice - spondilodeza : 1027
+Operacija ileusa - razrešitev zarastlin : 338
+Operacija jeter : 334
+Operacija karpalnega kanala : 146
+Operacija kile : 339
+Operacija krènih žil : 308
+Operacija morbidne debelosti : 557
+Operacija nosnega pretina : 1377
+Operacija nožnega palca (hallux) : 571
+Operacija pankreasa : 332
+Operacija pankreasa z duodenektomijo : 333
+Operacija prirojene napake prepone (diafragmalna kila,?) : 278
+Operacija prirojenih anomalij hrbtenjaèe in hrbteniènega kanala (meningokela, mielomeningokela,?) : 162
+Operacija seèevoda (vezikouretralni refluks, hidronefroza, ?) : 376
+Operacija sive mrene (katarakte) : 192
+Operacija skolioze : 1029
+Operacija slepièa (apendiksa) : 337
+Operacija strabizma : 197
+Operacija tireoglosalne ciste/fistule : 164
+Operacija torakalne anevrizme : 286
+Operacija tumorja na hrbtenici : 149
+Operacija ženske urinske inkontinence (razen TVT) : 991
+Operacija ženske urinske inkontinence TVT : 1120
+Operacija žolènih kamnov : 324
+Operacija žolènikov in žolèevodov (razen žolènih kamnov) : 325
+Operacije glavkoma : 190
+Operacije malignih tumorjev  v otorinolaringologiji (ORL) in maksilofacialni kirurgiji  v splošni anesteziji : 1094
+Operacije na šèitnici in obšèitnici : 173
+Operacije pacemaker (srèni spodbujevalnik) : 292
+Operacije perifernih živcev : 160
+Operacije prirojenih srènih napak : 285
+Operacije tumorjev obnosnih votlin v splošni anesteziji : 1098
+Operacije zaradi motnje statike medeniènega dna : 1110
+Operativne laparoskopije v ginekologiji : 1102
+Operativni poseg zaradi posttravmatskega in / ali hematogenega osteitisa : 422
+Operativni posegi zaradi urinske inkontinence : 1230
+Operativno zdravljenje endometrioze na terciarni ravni : 1118
+Operativno zdravljenje moške neplodnosti : 1116
+Operativno zdravljenje tendovaginitisa : 997
+Oploditev z biomedicinsko pomoèjo- spontan ciklus : 391
+Oploditev z biomedicinsko pomoèjo- stimuliran ciklus : 392
+Optièna koherenèna tomografija (OCT) : 1355
+Oralni glukoza toleranèni test (OGTT) (razen v noseènosti) : 1276
+Oralni glukoza toleranèni test (OGTT) v noseènosti : 1253
+Oromaksilofacialni pregled - prvi : 1368
+Ortodontski pregled - prvi : 61
+Ortodontski pregled - zaèetek zdravljenja : 63
+Ortodontsko zdravljenje : 257
+Ortopedska operacija rame : 568
+Ortopedske operacije skeleta pri otroku (razen skolioze) : 1028
+Ortopedski pregled - prvi : 64
+Ortoptiène meritve in preiskave : 479
+Oskrba mehkih tkiv po poškodbah : 451
+Oskrba perforantne rane zrkla : 176
+Oskrba traheostome (vkljuèuje zamenjavo/odstranitev) : 266
+Ostale operacije na srcu : 295
+Osteosinteza cervikalne hrbtenice : 605
+Osteosinteza gležnja : 596
+Osteosinteza goleni : 595
+Osteosinteza hrbtenice (drugi posegi) : 607
+Osteosinteza kolena : 597
+Osteosinteza komolca : 600
+Osteosinteza medenice : 593
+Osteosinteza nadlahtnice : 599
+Osteosinteza podlahti : 601
+Osteosinteza rame : 604
+Osteosinteza stegnenice : 592
+Osteosinteza stopala (skoènica, petnica, stopalnica) : 594
+Osteosinteza torakolumbalne hrbtenice : 151
+Osteosinteza torakolumbalne hrbtenice s "kletko - cage" : 606
+Osteostineza dlanènic, èlenkov : 602
+Otoakustièna emisija : 499
+Otomikroskopija : 209
+Otorinolaringološki pregled - prvi : 69
+Otorinolaringološki pregled otroka - prvi : 1241
+Paliativna obravnava - prvi pregled : 1000
+Pansinusne operacije  v splošni anesteziji : 1097
+Parodontalno zdravljenje : 251
+Parodontološki pregled - prvi : 71
+Parodontološki pregled - zaèetek zdravljenja : 73
+Pediatrièni pregled - prvi : 894
+Pediatrièni pregled na sekundarni ravni - prvi : 977
+Pedopsihiatrièni pregled - prvi : 80
+Perfuzijska scintigrafija miokarda v mirovanju za oceno viabilnosti miokarda : 1328
+Perfuzijska scintigrafija miokarda z obremenitvijo : 1289
+Perfuzijska scintigrafija možganov : 1373
+Perimetrija : 477
+Perkutana anterogradna pielografija : 864
+Perkutana endoskopska jejunostomija : 558
+Perkutana holangiografija : 566
+Perkutana nefroskopija : 347
+PET/CT celega telesa  s 18F- holinom : 1372
+PET/CT celega telesa s 18F- FDG : 1384
+PET/CT drugo : 1337
+PET/CT miokarda s 18F- FDG : 1343
+PET/CT možganov s 18F- FDG : 1336
+PET/CT obšèitnic  s 18F- holinom : 1389
+PET/CT somatostatinskih receptorjev : 1388
+Plastièni poseg na obraznih kosteh : 444
+Plastièni poseg na ožilju : 443
+Plastièno kirurški pregled  - prvi : 74
+Pnevmonektomija : 268
+Podkolenska amputacija : 425
+Poseg na jeziku : 628
+Poseg na mišiènoskeletnem sistemu- druga mesta : 573
+Poseg na mrežnici, žilnici ali zadnjem prekatu : 195
+Poseg na orbiti : 198
+Poseg na oèesni veznici : 202
+Poseg na solznem aparatu : 201
+Poseg na uhlju : 626
+Poseg na ustnicah : 627
+Poseg na vekah : 625
+Poseg na veki : 199
+Poseg na zunanjih oèesnih mišicah : 196
+Poseg na žrelu : 439
+Poseg z YAG laserjem : 1283
+Poseg zaradi pareze obraznega živca : 442
+Posegi na beloènici : 182
+Posegi na bobnièu ali srednjem ušesu v lokalni anesteziji : 1080
+Posegi na hipofizi : 170
+Posegi na hrbtenici zaradi vnetja : 1296
+Posegi na jajèniku in/ali jajcevodu zaradi benigne patologije : 1103
+Posegi na jajèniku in/ali jajcevodu zaradi maligne patologije : 1104
+Posegi na košèicah srednjega ušesa : 1285
+Posegi na mandljih in žrelnici pri otrocih v splošni anesteziji : 1091
+Posegi na mandljih pri odrasli v splošni anesteziji : 1090
+Posegi na mandljih v lokalni anesteziji : 1083
+Posegi na mastoidni in temporalni kosti : 1334
+Posegi na maternici zaradi benigne patologije : 1108
+Posegi na maternici zaradi maligne patologije : 1109
+Posegi na mišiènoskeletnem sistemu na vratu in prsnem košu : 567
+Posegi na notranjem ušesu : 1350
+Posegi na notranjem ušesu v lokalni anesteziji : 1081
+Posegi na roženici : 177
+Posegi na steklovini : 193
+Posegi na ušesu v lokalni anesteziji : 1079
+Posegi na vranici : 314
+Posegi na vulvi zaradi benigne patologije : 1114
+Posegi na vulvi zaradi maligne patologije : 1112
+Posegi na èešariki (epifizi) : 168
+Posegi na šarenici, ciliarniku in sprednjem prekatu : 186
+Posegi na želodcu : 326
+Posegi na žrelnici in bobnièu pri otrocih v splošni anesteziji : 1093
+Posegi na žrelnici pri otrocih v splošni anesteziji : 1092
+Posegi v grlu : 262
+Posegi v maternièni votlini v splošni anesteziji v dnevni bolnišnici : 1115
+Posegi v nosnih sinusih : 1310
+Posegi v nožnici zaradi benigne patologije : 1113
+Posegi v nožnici zaradi maligne patologije : 1111
+Posegi v zunanjem ušesu : 1378
+Posegi v žlezah slinavkah in izvodilih : 1329
+Posegi zaradi nestabilnosti kolenskega sklepa : 1316
+Posegi zaradi revizijske, specialne, tumorske endoproteze ostalih sklepov : 1290
+Posegi zaradi vnetja ortopedske proteze : 1325
+Postkoitalni test : 1015
+Posvet in svetovanje pri specialistu transfuzijske medicine : 1358
+Predoperativna UZ preiskava pazduhe (aksile) : 912
+Pregled dojk in nadaljnja obravnava - prvi : 3
+Pregled noseènice na sekundarni ravni - perinatalni dnevni center : 1250
+Pregled ob neplodnosti - moški - prvi : 981
+Pregled ob neplodnosti - ženske - prvi : 983
+Pregled ob neplodnosti -par - prvi : 5
+Pregled ob odvajanju odvisnosti od alkohola - prvi : 86
+Pregled ob odvajanju odvisnosti od prepovedanih drog - prvi : 82
+Pregled oèesa z impresijsko citologijo roženice : 486
+Pregled oèesnega ozadja : 485
+Pregled prekanceroz v dentalni medicini : 1136
+Pregled pri specialistu nuklearne medicine (pred nuklearno- medicinsko slikovno diagnostiko ali zdravljenjem, sledenje po zdravljenju) : 1356
+Pregled v ambulanti za zdravljenje parastomalne kože - prvi : 1243
+Pregled v avdiovestibuloški ambulanti - otroci do 5 let - prvi : 1321
+Pregled v avdiovestibuloški ambulanti - prvi : 1197
+Pregled v avdiovestibuloški ambulanti zaradi naglušnosti - prvi : 1364
+Pregled v avdiovestibuloški ambulanti zaradi tinitusa - prvi : 1305
+Pregled v avdiovestibuloški ambulanti zaradi vrtoglavice - prvi : 1332
+Pregled v foniatrièni ambulanti - prvi : 1201
+Pregled v nevrofiziologiji - prvi : 971
+Pregled v razvojni nevrologiji - prvi : 969
+Pregled šèitnice (vkljuèuje UZ šèitnice, ob indikaciji UZ vodeno tankoigelno biopsijo šèitnice) - prvi : 1335
+Preiskava evociranih odzivov živènega sistema : 470
+Preiskava urinskega pretoka : 516
+Premolarizacija zoba : 1143
+Presejanje diabetiène retinopatije : 1262
+Preuèevanje spanja : 471
+Profilometrija uretralnega pritiska UPP : 515
+Proktološki pregled - prvi : 11
+Prostata - transuretralna resekcija (TUR) : 409
+Prostatektomija (razen v primeru malignoma) : 405
+Prostatektomija zaradi malignoma : 1233
+Protetièna rehabilitacija v dentalni medicini : 1121
+Psihiatrièni pregled - prvi : 78
+Psihoakustièni testi : 497
+PTA (perkutana transluminalna angioplastika) : 1252
+PTCA (koronarna angiografija) : 298
+Pulmološki pregled - prvi : 76
+Pulmološki pregled otroka - prvi : 116
+Punkcija organa pod CT : 718
+Punkcija organa pod MRI : 805
+Punkcija plevralne votline : 1016
+Radikalna ekscizija tumorja ustne votline : 1333
+Radioimunoterapija ne-Hodgkinovih limfomov : 1349
+Radioizotopska mikcijska cistoureterografija (RIMCUG) : 1347
+Radionuklidna flebografija : 1282
+Radionuklidna limfografija : 1352
+Radionuklidna ventrikulografija : 1284
+Radionuklidno peptidno zdravljenje metastatskih tumorjev s prisotnimi somatostatinskimi receptorji : 1304
+Radionuklidno zdravljenje - drugo : 1300
+Radionuklidno zdravljenje kostne boleèine zaradi kostnih zasevkov : 1363
+Radionuklidno zdravljenje nevroendokrinih tumorjev z 131I-MIBG : 1369
+Radiosinovioorteza : 1393
+Radioterapija : 463
+Razvojna ambulanta - prvi pregled : 975
+Rehabilitacija in detoksifikacija zaradi zlorabe alkohola in drog : 523
+Rehabilitacija in/ali reintegracija oseb z motnjami hranjenja in èustvenimi motnjami : 548
+Rehabilitacija otrok z motnjami v razvoju : 1175
+Reinplantacija prstov in udov : 435
+Rekonstrukcija dojke - avtologna : 460
+Rekonstrukcija dojke z implantati : 461
+Rekonstrukcija kolenskih vezi : 1293
+Rekonstrukcija oblike obraza : 440
+Rekonstrukcija oèesne votline z vsadkom : 456
+Rekonstrukcija razjed zaradi pritiska : 448
+Rektosigmoidoskopija : 560
+Rektoskopija : 1202
+Reosteosinteza (OSM-ex in spongioplastika in OS) : 419
+Reponiranje luksiranega temporomandibularnega sklepa (TMS) : 1150
+Resekcija debelega èrevesa : 327
+Resekcija ozkega èrevesa : 330
+Resekcija požiralnika z rekonstrukcijo : 343
+Resekcija rektosigme : 328
+Retrogradna pielografija : 861
+Retrogradna pieloskopija : 348
+Revaskularizacija prstov in udov : 436
+Revizija po mikrokirurških posegih : 452
+Revizija po transplantaciji ledvice : 368
+Revizije po operacijah na arterijah : 306
+Revizije po operacijah na srcu (krvavitve, tamponade,?) : 296
+Revizije po žilnih operacijah (razen arterije) : 291
+Revizijska operacija kolena : 1023
+Revizijska operacija kolka : 1022
+Revizijska operacija ramena : 1024
+Revmatološki pregled - prvi : 88
+Revmatološki pregled otroka - prvi : 126
+Rinoplastika : 438
+Rinoskopija in sinusoskopija : 1087
+RTG abdomna : 855
+RTG celotne hrbtenice : 1196
+RTG cervikalne hrbtenice : 837
+RTG dlani : 819
+RTG glave : 847
+RTG gležnja : 829
+RTG goleni : 830
+RTG hrbetnice v predelu L5-S1 : 840
+RTG kljuènice : 842
+RTG kolena : 831
+RTG kolka : 834
+RTG komolca : 823
+RTG liènice : 851
+RTG lopatice : 844
+RTG lumbosakralne hrbtenice : 839
+RTG medenice : 835
+RTG nadlahti : 824
+RTG nosa : 849
+RTG orbit : 852
+RTG os naviculare : 821
+RTG pc : 854
+RTG petnice : 828
+RTG po schullerju : 850
+RTG podlahti : 822
+RTG pogaèice : 832
+RTG požiralnika : 856
+RTG prsnice (sternuma) : 846
+RTG prstov nog : 826
+RTG prstov rok : 818
+RTG prvega vratnega vretenca (dens) : 891
+RTG rame : 825
+RTG reber : 845
+RTG sakroiliakalnega sklepa - SIS : 836
+RTG sinusov : 848
+RTG slikanje - paratireoidna serija : 892
+RTG slikanje - plazmocitomska serija : 893
+RTG solzevodov : 890
+RTG spodnje èeljusti (mandibule) : 853
+RTG stegnenice : 833
+RTG sternoklavikularnega sklepa : 843
+RTG stopala : 827
+RTG torakalne hrbtenice : 838
+RTG trtice : 841
+RTG zapestja : 820
+RTG želodca in dvanajstnika : 857
+Scintigrafija celega telesa s 99mTc- DMSA : 1362
+Scintigrafija celega telesa s 99mTc- MIBI : 1288
+Scintigrafija celega telesa z  jodom 123I /131I : 1367
+Scintigrafija celega telesa z 123I /131I-MIBG v diagnostiki tumorjev nevroektodermalnega izvora : 1375
+Scintigrafija kostnega mozga : 1302
+Scintigrafija miokarda z 123I-MIBG za opredelitev simpatiène inervacije miokarda : 1281
+Scintigrafija možganov- dopaminskega prenašalca : 1319
+Scintigrafija obšèitnic : 1344
+Scintigrafija parenhima jeter in vranice : 1299
+Scintigrafija pljuè (ventilacijsko-perfuzijska, perfuzijska) : 1380
+Scintigrafija skeleta : 1339
+Scintigrafija skorje nadledviènic : 1381
+Scintigrafija slinavk : 1391
+Scintigrafija somatostatinskih receptorjev : 1292
+Scintigrafija sredice nadledviènic : 1303
+Scintigrafija varovalnih bezgavk : 1382
+Scintigrafija varovalnih bezgavk in prikaz netipnega tumorja (SNOLL) : 1294
+Scintigrafija z 67Ga-galijem : 1385
+Scintigrafija z oznaèenimi eritrociti za opredelitev jetrnih hemangiomov : 1386
+Scintigrafija z oznaèenimi eritrociti za prikaz mesta krvavitve v prebavni trakt : 1351
+Scintigrafija z oznaèenimi levkociti : 1360
+Scintigrafija za opredelitev D-L shunta : 1370
+Scintigrafija za opredelitev L-D shunta : 1342
+Scintigrafija za prikaz ektopiène želodène sluznice (Meckelovega divertikla) : 1313
+Scintigrafija za prikaz gastroezofagealnega refluksa : 1315
+Scintigrafija za prikaz netipnega tumorja (ROLL) : 1365
+Scintigrafija šèitnice s 99mTc- MIBI : 1317
+Scintigrafija šèitnice s 99mTc-pertehnetatom (s testom kopièenja, brez testa kopièenja) : 1318
+Scintigrafija šèitnice z  jodom 123I /131I  (s testom kopièenja, brez testa kopièenja) : 1298
+Scintigrafija- drugo : 1324
+Scintigrafska doloèitev hitrosti praznjenja želodca : 1323
+Scintimamografija : 1320
+Selektivna aponevrektomija pri CD : 433
+Semikastracija : 406
+Sinehioliza : 188
+Sinoviektomija ekstenzorjev / fleksorjev prstov in zapestja : 434
+Sklerozacija krènih žil : 307
+Sklerozacija varic požiralnika : 553
+Slušni funkcijski testi : 491
+Specifièna desenzibilizacija : 1017
+Spirometrija : 1219
+Splenektomija : 315
+Splošni zobozdravstveni pregled - prvi : 101
+Sprejem v bolnišnico (razen operacije) : 1279
+Sprostitev kontrakture kože in podkožnega tkiva : 613
+Statièna scintigrafija ledvic : 1326
+Sterilizacija-moški : 1002
+TCD (Transkranialna Dopplerjeva sonografija) : 1193
+Tea ACI : 289
+Telesna pletizmografija (RV, TLC, upor v dihalnih poteh) : 1211
+Terapevtska aspiracija sklepa : 1009
+Terapija abscesa v dentalni medicini : 1131
+Test avtonomnega živèevja : 473
+Test implantiranega srènega vzpodbujevalca (pacemaker) : 507
+Test kožne alergijske odzivnosti : 520
+Test spiranja mehurja : 517
+Test z nagibno mizo : 474
+Testi vestibularne funkcije : 500
+Timektomija : 172
+Timpanoskopija : 208
+Toaleta ušesa : 210
+Tonometrija : 488
+Tonzilektomija/adenoidektomija : 238
+Torakalni kirurški pregled - prvi : 95
+Torakoskopska operacija pljuè : 272
+Torakoskopska simpatektomija : 273
+Torakotomija eksplorativna : 271
+Traheostomija : 279
+Traheotomija : 274
+Transezofagealna ehokardiografija : 925
+Transezofagealna ehokardiografija s kontrastom : 926
+Transfuziološka obravnava z mnenjem : 1354
+Transkateterska embolizacija krvnih žil : 300
+Transmetatarzalna amputacija prsta/prstov : 426
+Transplantacija beloènice : 185
+Transplantacija jeter : 336
+Transplantacija kostnega mozga : 310
+Transplantacija ledvice : 367
+Transplantacija pankreasa : 335
+Transplantacija srca : 281
+Transrektalni UZ medenice : 931
+Transrektalni UZ prostate z biopsijo : 932
+Transtorakalna ehokardiografija : 913
+Transtorakalna ehokardiografija s KS : 916
+Transvaginalni UZ medenice : 930
+Travma dentoalveolarnega kompleksa: imobilizacija, replantacija, repozicija zob, šivanje mehkotkivnih ran : 1140
+Travmatološki pregled - prvi : 97
+Trepanacija lobanje (anevrizma) : 155
+Trepanacija lobanje (AVM) : 154
+Trepanacija lobanje (možganski tumor) : 152
+Trepanacija lobanje (tumor baze) : 153
+TUR incizija : 374
+TUR mehurja : 373
+UBM - UZ biomikroskopija : 902
+Ultrazvoèni mikcijski cistogram (UMCG) : 946
+Urea dihalni test : 513
+Ureterolitotomija : 355
+Ureteroskopija : 353
+Uretroskopija : 363
+Urinarna manometrija : 518
+Urološki pregled - prvi : 99
+Urološki pregled otroka- prvi : 1267
+Usmerjen ali urgenten UZ srca : 917
+Usmerjen UZ ven zgornjih ali spodnjih okonèin : 953
+UZ abdomna : 928
+UZ dojk enostransko : 909
+UZ dojk obojestransko : 908
+UZ Dopplerske ocene erektilne disfunkcije : 934
+UZ glave : 897
+UZ kolka dojenèkov : 951
+UZ kolka novorojenèkov : 950
+UZ mehkih tkiv : 956
+UZ otroške glave : 898
+UZ perifernih arterij spodnjih okonèin : 952
+UZ perifernih živcev : 1205
+UZ preiskava ene bezgavène lože : 957
+UZ preiskava notranjih genitalij : 936
+UZ s kontrastom : 929
+UZ sklepa : 948
+UZ skrotuma : 1213
+UZ spinalnega kanala : 960
+UZ spremljanje menstruacijskega ciklusa ali UZ preiskava ginekoloških tumorjev : 935
+UZ trebušne aorte in njenih vej : 943
+UZ vodena DIB : 910
