@@ -1,6 +1,6 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
-import time
+import re
 
 class ezdrav:
     def scrape(pro, urg, reg):
@@ -19,8 +19,6 @@ class ezdrav:
         regions[reg].click()
   
         driver.find_element_by_id("btnProcedureSubmit").click()
-
-        time.sleep(1)
         
         html = driver.page_source
         soup = BeautifulSoup(html,"html.parser")
@@ -56,7 +54,9 @@ class ezdrav:
                 if et.find("@") != -1:
                     ne = False
                     email.append(et)
-                if et.find("+386") != -1:
+                
+                tel = re.findall(r'[\+\]?[1-9][0-9 .\-\(\)]{8,}[0-9]', et)
+                if(len(tel)>0):
                     telefon.append(et)
                     nt = False
                     break
@@ -70,14 +70,27 @@ class ezdrav:
             err = soup.find('div',{"class":"col-md-12 error message-error"}).text.strip()
         driver.quit()
         return [postopek, ime,okvirni_termin,cakalna_doba,telefon,email,err]
-    
-data = ezdrav.scrape(1255,0,0)
-print(data[0])
-for i, n in enumerate(data[2]):
-            print(data[1][i])
-            print(data[2][i])
-            print(data[3][i])
-            print(data[4][i])
-            print(data[5][i])
-            print("")
-print(data[6])
+
+    def firstfive(data):
+        if(data[6] != ""):
+            return [data[6]]
+        else:
+            return [data[0],data[1][:6],data[2][:6],data[3][:6],data[4][:6],data[5][:6]]
+    def printdata(data):
+        print(data[0])
+        if(len(data)>1):
+            for i, n in enumerate(data[1]):
+                print(data[1][i])
+                print(data[2][i])
+                print(data[3][i])
+                print(data[4][i])
+                print(data[5][i])
+        return
+# TEST
+data = ezdrav.scrape(164,1,0)
+data = ezdrav.firstfive(data)
+ezdrav.printdata(data)
+print()
+data = ezdrav.scrape(1225,1,0)
+data = ezdrav.firstfive(data)
+ezdrav.printdata(data)
