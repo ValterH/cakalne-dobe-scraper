@@ -1,26 +1,13 @@
-from selenium import webdriver
+import requests
 from bs4 import BeautifulSoup
 import re
 
 class ezdrav:
     def scrape(pro, urg, reg):
-        driver = webdriver.Chrome()
-
-        driver.get("https://cakalnedobe.ezdrav.si")
-        js = "document.getElementById('procedureId').value = '" + str(pro) + "';"
-        driver.execute_script(js)
-   
-        urgency = driver.find_element_by_id("urgencyTypeIdP")
-        urgencies = urgency.find_elements_by_tag_name('option')
-        urgencies[urg].click()
-  
-        region = driver.find_element_by_id("regionId")
-        regions = region.find_elements_by_tag_name('option')
-        regions[reg].click()
-  
-        driver.find_element_by_id("btnProcedureSubmit").click()
+        d = {'procedureId': pro, 'urgencyTypeIdp': urg, 'regionId': reg, 'btnProcedureSubmit': ''}
+        req = requests.post("https://cakalnedobe.ezdrav.si/Home/ProcedureAppointmentSlots", data=d)
         
-        html = driver.page_source
+        html = req.text
         soup = BeautifulSoup(html,"html.parser")
         klinike = soup.find_all('div',{"class":"col-md-10 col-md-offset-1 well"})
         p = soup.find('h4')
@@ -64,11 +51,10 @@ class ezdrav:
             if(ne): email.append("ni podan")
             c+=1
             
-        driver.quit()
         err = ""
         if ime == []:
             err = soup.find('div',{"class":"col-md-12 error message-error"}).text.strip()
-        driver.quit()
+        
         return [postopek, ime,okvirni_termin,cakalna_doba,telefon,email,err]
 
     def firstfive(data):
@@ -87,10 +73,6 @@ class ezdrav:
                 print(data[5][i])
         return
 # TEST
-data = ezdrav.scrape(164,1,0)
-data = ezdrav.firstfive(data)
-ezdrav.printdata(data)
-print()
-data = ezdrav.scrape(1225,1,0)
+data = ezdrav.scrape(847,7,9)
 data = ezdrav.firstfive(data)
 ezdrav.printdata(data)
